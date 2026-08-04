@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "pack": "Spellerium V3",
-  "revision": 6,
+  "revision": 7,
   "mods": [
     {
       "file": "acedium-0.4.1+mc1.21.1.jar",
@@ -785,15 +785,6 @@
       "sha512": "175602cdb000c62aab2ff95b1857d089e1b7e4ae1264fb3595e5574da93b5b9b11483587b3b423d09bc6d6217208b0eaa6cfcdcbaad6062881621ef69b72e2f1",
       "source": "github",
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/ftb-library-neoforge-2101.1.34.jar"
-    },
-    {
-      "file": "ftb-quests-neoforge-2101.1.29.jar",
-      "modid": "ftbquests",
-      "version": "ftb-quests-neoforge-2101.1.29.jar",
-      "size": 1595992,
-      "sha512": "ba1fc21f7750adad5692566fe07bc53a2584b2891a17a3e5239f10fbd1f6088a738dec027b925b2a64c97377b023c189d8014695fee9b7cdaef8dd41255b5c90",
-      "source": "github",
-      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/ftb-quests-neoforge-2101.1.29.jar"
     },
     {
       "file": "ftb-teams-neoforge-2101.1.10.jar",
@@ -1842,9 +1833,9 @@
   ],
   "config": {
     "file": "config.zip",
-    "version": "r6",
-    "size": 1074370,
-    "sha512": "8b3f9c64c19bafc8c849c7af195250b6162a9377bfe34734d04fedfa466c035186b8841728d33611c6ed6a565d333775fe73429667e82035cfd01273ef754e89",
+    "version": "r7",
+    "size": 1074955,
+    "sha512": "9e11758dfe1f8184e6de702a159a22185b91da88e30f4d0f009dd600d311c98bf1e96433904818c82286c0bfcebcaf35639376a4300e9ca159faf3e61b7d6f41",
     "source": "github",
     "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/config.zip"
   }
