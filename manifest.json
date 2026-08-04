@@ -1,8 +1,251 @@
 {
   "schema": 1,
-  "pack": "hostpack",
-  "revision": 2,
+  "pack": "Spellerium V3",
+  "revision": 3,
   "mods": [
+    {
+      "file": "acedium-0.4.1+mc1.21.1.jar",
+      "modid": "acedium",
+      "version": "acedium-0.4.1+mc1.21.1.jar",
+      "size": 162923,
+      "sha512": "3344e65d3bb9389dbe2f42d79775a2b828a90f929fd8d549507a105c1727263175bf53c747ba4b640c20c1e3f33944c454f16a5e0ca681eec6da2a177cd8e4c9",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/acedium-0.4.1%2Bmc1.21.1.jar"
+    },
+    {
+      "file": "aces_spell_utils-1.2.7.1-1.21.1.jar",
+      "modid": "aces_spell_utils",
+      "version": "aces_spell_utils-1.2.7.1-1.21.1.jar",
+      "size": 244529,
+      "sha512": "d27b6865f8220924a609bd6772848b3bc66e8290d55fd0157233594d211b36ac6f672e12977ad49bc1d216b229f05372fe6d245f13506a2389bf2347f726a906",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/aces_spell_utils-1.2.7.1-1.21.1.jar"
+    },
+    {
+      "file": "additional_attributes-1.21.1-1.2.2.jar",
+      "modid": "additional_attributes",
+      "version": "additional_attributes-1.21.1-1.2.2.jar",
+      "size": 47247,
+      "sha512": "3a9482f7ac6376f46a3e002810533df67c5055b0e603cbf053fc0cbd8ff28271eaafa6461dbf0a3452c51a09ba393fc3a25242a849cd2e2c176a4b23c594760c",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/additional_attributes-1.21.1-1.2.2.jar"
+    },
+    {
+      "file": "adventuredungeons-neoforge-1.21-1.3.1.jar",
+      "modid": "adventuredungeons",
+      "version": "adventuredungeons-neoforge-1.21-1.3.1.jar",
+      "size": 1518470,
+      "sha512": "ad99c48697a8d92ea2d8e7d6991d9aeab52ceb5abc495121dc19a7bbd2694c0cdfec1ce89cdc111d4f0ce53c49e4e1a2c9f316a5f433fa9ebae6930e6fe7d12d",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/adventuredungeons-neoforge-1.21-1.3.1.jar"
+    },
+    {
+      "file": "aeroworks-1.4.1.jar",
+      "modid": "aeroworks",
+      "version": "aeroworks-1.4.1.jar",
+      "size": 634089,
+      "sha512": "7c2ddd69e361a463b3c4bbe679422f3eb82d801f5878367065e9ba6f9bf688e04c82fa83327500d3c36fa50ca7cc69b60c736402022f8d3b48bad1474c81f8dd",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/aeroworks-1.4.1.jar"
+    },
+    {
+      "file": "aero_additions-1.2.8.jar",
+      "modid": "aero_additions",
+      "version": "aero_additions-1.2.8.jar",
+      "size": 753884,
+      "sha512": "07b6ec26de94216afdc9e0ab3bebeea3eba28b8b8c30892ccda8d23314941c0302794bfdf6a795c1a94754f91050760a7d0ab6c7c0558217326204fa21ef074a",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/aero_additions-1.2.8.jar"
+    },
+    {
+      "file": "AI-Improvements-1.21-0.5.3.jar",
+      "modid": "aiimprovements",
+      "version": "AI-Improvements-1.21-0.5.3.jar",
+      "size": 28984,
+      "sha512": "ded870e90953ea915d24ac4c81799b95b321dda39936cd4cd620302b48882141fa3b9f1af658bdc6c25dc48de003223b91f3669b69efcc92c8666a3983f0fccc",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/AI-Improvements-1.21-0.5.3.jar"
+    },
+    {
+      "file": "Apotheosis-1.21.1-8.7.0.jar",
+      "modid": "apotheosis",
+      "version": "Apotheosis-1.21.1-8.7.0.jar",
+      "size": 7142458,
+      "sha512": "0a842d834a1143d272b74ba2147b929441c8c2d5b40525cfe3ccca621b037e7ed4ac7596fee73f0bac1311009a1bb20354102b2b52abc8900a68ac24664d9676",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/Apotheosis-1.21.1-8.7.0.jar"
+    },
+    {
+      "file": "ApothicAttributes-1.21.1-2.10.1.jar",
+      "modid": "apothic_attributes",
+      "version": "ApothicAttributes-1.21.1-2.10.1.jar",
+      "size": 323264,
+      "sha512": "5eee9c0f6ff9378e56e7b2af09a5b649183224e2e0e6e78daa30d09e830905323ab8768ab659964d2cafb3bc2c8bcee62bbde902b16acc31f41b244016a34c17",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/ApothicAttributes-1.21.1-2.10.1.jar"
+    },
+    {
+      "file": "ApothicEnchanting-1.21.1-1.6.0.jar",
+      "modid": "apothic_enchanting",
+      "version": "ApothicEnchanting-1.21.1-1.6.0.jar",
+      "size": 5420322,
+      "sha512": "33dfdc186a9afd7bf410e146eac650103fceb570273752fcaf08cbd9b914db36f022a4689b54ddc2c131adf916d19190e5e626e40483cfd0f8cae0c8c2bc167b",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/ApothicEnchanting-1.21.1-1.6.0.jar"
+    },
+    {
+      "file": "ApothicSpawners-1.21.1-1.4.0.jar",
+      "modid": "apothic_spawners",
+      "version": "ApothicSpawners-1.21.1-1.4.0.jar",
+      "size": 129784,
+      "sha512": "2fdd49cdb3e6610846c3a746ab0730d6d49412eaf8c21e3d0b9d588d80c8cd1a1d0b7e19ade7fc86fd699ac02e270e5fa01fb5cf106d24a7740692ecc1ad8820",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/ApothicSpawners-1.21.1-1.4.0.jar"
+    },
+    {
+      "file": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "modid": "appleskin",
+      "version": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "size": 75804,
+      "sha512": "f4ea46273e407334b63e262e2555c9a8204f7b5e60f23f272fbaa83ad9e88800e0ee186aca840710df2dbe0a18b37758695fef2ae1a902c10b3706e3de772937",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/appleskin-neoforge-mc1.21-3.0.9.jar"
+    },
+    {
+      "file": "arcaneessenceblock-1.0.1-neoforge-1.21.1.jar",
+      "modid": "arcaneessenceblock",
+      "version": "arcaneessenceblock-1.0.1-neoforge-1.21.1.jar",
+      "size": 26988,
+      "sha512": "d3552483a71090ee034b863dd32304f52f07f3b67deec7a097e692ded29d25315a609fa492beeae800d94ecadd07e405794849d33a7bd97db4d8060c48bf1ae1",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/arcaneessenceblock-1.0.1-neoforge-1.21.1.jar"
+    },
+    {
+      "file": "architectury-13.0.11-neoforge.jar",
+      "modid": "architectury",
+      "version": "architectury-13.0.11-neoforge.jar",
+      "size": 584734,
+      "sha512": "d9f7c3bb8162577dfb461ffdf04bd6a3563c7586934a0e2a744c14421beffb8286f0d88d4c758317003f20f99fe8072a39b9d675af061e036970d36db36027f0",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/architectury-13.0.11-neoforge.jar"
+    },
+    {
+      "file": "artifacts-neoforge-13.2.1.jar",
+      "modid": "artifacts",
+      "version": "artifacts-neoforge-13.2.1.jar",
+      "size": 1030252,
+      "sha512": "4e5ccc2733e2ede833e6c4ae6b44751eab5ac48857055b61fdcbb6434c7d867c17b438eea9f226f6af652ee397f3fb4d7583f263a5d706d730ff7243ace865dc",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/artifacts-neoforge-13.2.1.jar"
+    },
+    {
+      "file": "asterismarcanum-1.21.1-0.1.0.jar",
+      "modid": "asterismarcanum",
+      "version": "asterismarcanum-1.21.1-0.1.0.jar",
+      "size": 987245,
+      "sha512": "3c9369859efff77b04b294965353912ca1cc89b6e61c122abf65133f6077b5e1f9dd32cf23e639cd8b85db5503adf6471d0327dddb9420cba3be62cad040855c",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/asterismarcanum-1.21.1-0.1.0.jar"
+    },
+    {
+      "file": "athena-neoforge-1.21.1-4.0.6.jar",
+      "modid": "athena",
+      "version": "athena-neoforge-1.21.1-4.0.6.jar",
+      "size": 99944,
+      "sha512": "ab40a306a26ce834daae921a1e87768cd2538a4bfe27a4480f97af854084cc334e7416b1bd0b7583834a32a86951283f29fd4b1df7b98a967a6b26a3ec05e2cf",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/athena-neoforge-1.21.1-4.0.6.jar"
+    },
+    {
+      "file": "atlas_additions-1.3.jar",
+      "modid": "atlas_additions",
+      "version": "atlas_additions-1.3.jar",
+      "size": 108853,
+      "sha512": "b317cce4e5f14e26abcf27ca1483802d5ec8c955bc943cea89f44c891ed18640cacd006f70d115fdf4068038bd7d364724d69ac307250e7149eb6ad73871a210",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/atlas_additions-1.3.jar"
+    },
+    {
+      "file": "atlas_api-1.21.1-1.2.0.jar",
+      "modid": "atlas_api",
+      "version": "atlas_api-1.21.1-1.2.0.jar",
+      "size": 28419,
+      "sha512": "90a9946a544bf97932bb48bc1cc757ad698b71008da780ee0113a1896c19cb2811d0fb705756c8df5d8a792f31ba97f00e3988ac04bb71c70b8837a0baa275a3",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/atlas_api-1.21.1-1.2.0.jar"
+    },
+    {
+      "file": "attributefix-neoforge-1.21.1-21.1.3.jar",
+      "modid": "attributefix",
+      "version": "attributefix-neoforge-1.21.1-21.1.3.jar",
+      "size": 19809,
+      "sha512": "09e1ff6012d5b7bef7bb701d38feaaab41db4f2fc8b9f669b820fc2c91e53098e093e401062ad80a0ce249c68aa7a6209ac9ee341518b8f640bae2393b1595ae",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/attributefix-neoforge-1.21.1-21.1.3.jar"
+    },
+    {
+      "file": "azurelib-neo-1.21.1-3.1.11.jar",
+      "modid": "azurelib",
+      "version": "azurelib-neo-1.21.1-3.1.11.jar",
+      "size": 877948,
+      "sha512": "9dca330008f001adb15d06a23607000ec9d954b194381039b705a0a92400614eb4a6628a1d85b01004dd12bd10c302d20c3eab60bcbcc7460dc64f7ae57b9c44",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/azurelib-neo-1.21.1-3.1.11.jar"
+    },
+    {
+      "file": "BadOptimizations-2.4.1-1.21.1.jar",
+      "modid": "badoptimizations",
+      "version": "BadOptimizations-2.4.1-1.21.1.jar",
+      "size": 283566,
+      "sha512": "2b66428bd98bd5ec0e09f2ec6af801cefb7b9b99cc4f0993daeaffe8d0ccc5ee0c2a73e9f38d4f92540ead0181704d2c9e946837ec05cf710fc3b20fce3b0cac",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/BadOptimizations-2.4.1-1.21.1.jar"
+    },
+    {
+      "file": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "modid": "baguettelib",
+      "version": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "size": 74380,
+      "sha512": "3def04f7f11ba743516594b69250ca7c54c11e0c4ffeeb718bfd9736096bfb25768642eb210f6cf716f33b8c12faf2e998df2db98cf495f0527620e8bec80a79",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/baguettelib-1.21.1-NeoForge-2.0.3.jar"
+    },
+    {
+      "file": "balm-neoforge-1.21.1-21.0.64.jar",
+      "modid": "balm",
+      "version": "balm-neoforge-1.21.1-21.0.64.jar",
+      "size": 783793,
+      "sha512": "e98dfb28aebd14888b4cb219bd88c269ab1991fab4526a3f3b727cdf6e2e919a2b9a8d551c0a37bbc48017089db7260535221555ad7b2eb2fb56d2318a55f4d3",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/balm-neoforge-1.21.1-21.0.64.jar"
+    },
+    {
+      "file": "better-compatability-checker-neoforge-21.1.8.jar",
+      "modid": "bcc",
+      "version": "better-compatability-checker-neoforge-21.1.8.jar",
+      "size": 25085,
+      "sha512": "43f8817abd4c48f2cf2087332a84e9840bde232bc62f838badb241f31bbabaa68ebb0b6403875ea66338cf76c0e394f13fafdee3804a37462c04f0acc7dfcd81",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/better-compatability-checker-neoforge-21.1.8.jar"
+    },
+    {
+      "file": "better_create-1.0.0-neoforge-1.21.1.jar",
+      "modid": "better_create",
+      "version": "better_create-1.0.0-neoforge-1.21.1.jar",
+      "size": 2253387,
+      "sha512": "8990354406cb6b74beb4ef43c64b099e0e04aa4b59600872ca1061691ee48d2e1ee319be5474a016ce98e3a4d760b89c64cca2afae3920050c0bd80e2ae55493",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/better_create-1.0.0-neoforge-1.21.1.jar"
+    },
+    {
+      "file": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "modid": "bookshelf",
+      "version": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "size": 328813,
+      "sha512": "78d4577a8e8fbb241216968475dd73f5b9e5efeb7da802b18a4e6c290e49af6cb4a5676e9855d0d8ff3613f967812e4bd363bbb9196c17c954d19454f84b2214",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/bookshelf-neoforge-1.21.1-21.1.81.jar"
+    },
     {
       "file": "born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar",
       "modid": "born_in_chaos_v1",
@@ -11,6 +254,267 @@
       "sha512": "69310fffb1d60f27c75ece2bf2f6feb06f9b364cd772917544fad06cacf24b195f838c6fc3807ca8d5ae84675fb08db59179ced4d18de71b9b7d8ddabe4b0fe7",
       "source": "github",
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/born_in_chaos_.Neoforge._1.21.1_1.7.6.jar"
+    },
+    {
+      "file": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.116.jar",
+      "modid": "c2me",
+      "version": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.116.jar",
+      "size": 3662294,
+      "sha512": "54b5b8026484bf44dc79f46b61965c2d45f4733bb6b580a59d2268c5d4dc11e8ae3fe9238d4ee045292cc3adc80ec9bcfd2e21a4b7433e31dbf1344a52b932f2",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.116.jar"
+    },
+    {
+      "file": "caelus-neoforge-7.0.1+1.21.1.jar",
+      "modid": "caelus",
+      "version": "caelus-neoforge-7.0.1+1.21.1.jar",
+      "size": 50235,
+      "sha512": "3763f95304ade2bacb217828c74eeef7905a114f71d41537d56121af58c182c2685467a5afb7e03ddb3997ec3d7496bdfdf71a9946a9f33e3470393e7a13306d",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/caelus-neoforge-7.0.1.1.21.1.jar"
+    },
+    {
+      "file": "CasterCuriosBonus-1.21.1-1.1.1.jar",
+      "modid": "caster_curios_bonus",
+      "version": "CasterCuriosBonus-1.21.1-1.1.1.jar",
+      "size": 114280,
+      "sha512": "ca54969151e719e6208b5e6bb991de5c0ec859933fab197d1b609163bb46b0dd83c44d198ef8a1041e47982af994ae6a5f16fac1797103dff8ffd90c77fede81",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/CasterCuriosBonus-1.21.1-1.1.1.jar"
+    },
+    {
+      "file": "cataclysm_dimension-neoforge1.21.1-1.5.5.jar",
+      "modid": "cataclysm_dimension",
+      "version": "cataclysm_dimension-neoforge1.21.1-1.5.5.jar",
+      "size": 330824,
+      "sha512": "2a11ea0f091a3ad055c604b4cfccc3149aedee4fcd59f47225a504e32c72f24a03faa895f6d1eaf3e460ca15af0c0fbe5e24ad11ccd806feee8e96d1ca23d70d",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/cataclysm_dimension-neoforge1.21.1-1.5.5.jar"
+    },
+    {
+      "file": "cataclysm_spellbooks-1.1.11-1.21.jar",
+      "modid": "cataclysm_spellbooks",
+      "version": "cataclysm_spellbooks-1.1.11-1.21.jar",
+      "size": 725204,
+      "sha512": "4c9cde2c83cfd61882b39b9fc4b9bf1dc29e433eac49e087e207fab81abb53146190feaf90942796ba3cbdefaceedd512b1ac8faf1a7ce407700406b80ef70e7",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/cataclysm_spellbooks-1.1.11-1.21.jar"
+    },
+    {
+      "file": "chipped-neoforge-1.21.1-4.0.2.jar",
+      "modid": "chipped",
+      "version": "chipped-neoforge-1.21.1-4.0.2.jar",
+      "size": 15020578,
+      "sha512": "f3083b01267e7c674c4b42f45a317c93ee7723443cba2051fe5bc593638b533b0fe90699e2101661c934dff458eab693cce4e188533bfe977778c249563a2fa5",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/chipped-neoforge-1.21.1-4.0.2.jar"
+    },
+    {
+      "file": "citadel-1.21.1-2.7.6.jar",
+      "modid": "citadel",
+      "version": "citadel-1.21.1-2.7.6.jar",
+      "size": 3028943,
+      "sha512": "81fd425d8910da30d9ce130213e518ed3acf6d6b63c98396668126e17f99f4d8e17348de7f6147ed3639ca59a3d3d79e1f0d78937972732fda04b7ac8a886547",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/citadel-1.21.1-2.7.6.jar"
+    },
+    {
+      "file": "cloth-config-15.0.140-neoforge.jar",
+      "modid": "cloth_config",
+      "version": "cloth-config-15.0.140-neoforge.jar",
+      "size": 1163890,
+      "sha512": "aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/cloth-config-15.0.140-neoforge.jar"
+    },
+    {
+      "file": "cobweb-neoforge-1.21-1.4.0.jar",
+      "modid": "cobweb",
+      "version": "cobweb-neoforge-1.21-1.4.0.jar",
+      "size": 410948,
+      "sha512": "0d258ce908e6c337bfc66452c90037e4dfe871f77da32297a108b7a9ef94d178007b1f66fa1dfda4d3e68e31755ae19636f15098da6ccfc25b2a46b4bf092248",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/cobweb-neoforge-1.21-1.4.0.jar"
+    },
+    {
+      "file": "codex_of_champions-1.4.2.jar",
+      "modid": "codex_of_champions",
+      "version": "codex_of_champions-1.4.2.jar",
+      "size": 329242,
+      "sha512": "4996a24737aa3e5aebe8a99d59faeb2bbdb4341ab257c58bc7f6c0a087d59449ca571513758ad0d4ee5495bf832c60fbb378763dfdf19c60f99ce275f2fd8730",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/codex_of_champions-1.4.2.jar"
+    },
+    {
+      "file": "common-networking-neoforge-1.0.21-1.21.1.jar",
+      "modid": "commonnetworking",
+      "version": "common-networking-neoforge-1.0.21-1.21.1.jar",
+      "size": 26016,
+      "sha512": "004258da01f6036f9bfe24645b76bba76c4b4a874a9e4303edd4236bd607065b5d51c413b54f3c12a44278b607d4b76738c9eea71c2c5490532dbc98a24fa244",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/common-networking-neoforge-1.0.21-1.21.1.jar"
+    },
+    {
+      "file": "connectivity-1.21.1-7.6.jar",
+      "modid": "connectivity",
+      "version": "connectivity-1.21.1-7.6.jar",
+      "size": 114165,
+      "sha512": "a2210b4dadf3ccdbfd835fe6ce504a211c8c27ce68ee34610bb3acf60cfc7ed9ab57ac0465db10bc5ad937aab08beb79afd25dc163af0c153830e93a28d62b0d",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/connectivity-1.21.1-7.6.jar"
+    },
+    {
+      "file": "connector-2.0.0-beta.14+1.21.1-full.jar",
+      "modid": "file:connector-2.0.0-beta.14+1.21.1-full.jar",
+      "version": "connector-2.0.0-beta.14+1.21.1-full.jar",
+      "size": 4526785,
+      "sha512": "6ed3168c2c7dad2606ada1fdf63ee412bb8bb5620718a702f6ac51310e671f2f93ab46fc96400e258f4433e51b96f9dd21441e1a8963d8b356c75b578e156dcc",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/connector-2.0.0-beta.14.1.21.1-full.jar"
+    },
+    {
+      "file": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "modid": "controlling",
+      "version": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "size": 77555,
+      "sha512": "bd01b2a38a869ea38e5f2a8fcd601e67ea9b132b9883c6ae752bc35dff6e94f6d47b965e31c1ee5c2f6a1221653549680da779fcb5319d199aec261d221d179e",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/Controlling-neoforge-1.21.1-19.0.5.jar"
+    },
+    {
+      "file": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "modid": "copycats",
+      "version": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "size": 1791747,
+      "sha512": "ecc98e659be66a71af0aee66a9f4c7c8838f4f0101402644929079ce7280a572a000e7e417905e1869a51d6e49ebbd601008f54585e07ee4ed01f2c4bc752bfe",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/copycats-3.0.4.mc.1.21.1-neoforge.jar"
+    },
+    {
+      "file": "coroutil-neoforge-1.21.0-1.3.9.jar",
+      "modid": "coroutil",
+      "version": "coroutil-neoforge-1.21.0-1.3.9.jar",
+      "size": 65716,
+      "sha512": "302ef8483df9af7547613be9f0b82606b7d2a42ea8b94c18dc1ed8ca040ba91f761ca0b195d2db8ac0972de30dbe2294508c47efc0d1a8f1805dd36402b5bb38",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/coroutil-neoforge-1.21.0-1.3.9.jar"
+    },
+    {
+      "file": "create-1.21.1-6.0.10.jar",
+      "modid": "create",
+      "version": "create-1.21.1-6.0.10.jar",
+      "size": 19123767,
+      "sha512": "11cc8fc049d2f67f6548c7abfada6b82a3adb5c7ca410a742de04bbca76e03862c518721b88d806f6e6d768a4d68531fdb903a85859b25d1484d550cc7bafd4b",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/create-1.21.1-6.0.10.jar"
+    },
+    {
+      "file": "create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "modid": "aeronautics_bundled",
+      "version": "create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "size": 33120013,
+      "sha512": "2abba2e166a0ec8d42ab06108b63070d61f985420ecca8739c5b2300561b31486b69b3ad13310b0c459edb9edebeffb55a4cdf4ce493805833d32f5bde9ce778",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/create-aeronautics-bundled-1.21.1-1.3.0.jar"
+    },
+    {
+      "file": "createaddition-1.6.0.jar",
+      "modid": "createaddition",
+      "version": "createaddition-1.6.0.jar",
+      "size": 1661802,
+      "sha512": "e3a31eefb15d37bd1a2ba9012d0c00ec92f7c9e57b7a35c993676ea0cc85ba4f35a055a9f98d57636f24a0562d6da18b4e90713f4f46d47959666a097a6a5cea",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/createaddition-1.6.0.jar"
+    },
+    {
+      "file": "createbigcannons-5.11.7+mc.1.21.1.jar",
+      "modid": "createbigcannons",
+      "version": "createbigcannons-5.11.7+mc.1.21.1.jar",
+      "size": 3771506,
+      "sha512": "24f414dfbb973a0f4d9c9b2aa059edc7bed4d23b4f39eb1f7d23a1d6b437e3b5d64cca6e4b85ff7eb2815743fa711d54ad652bffe96d1eb1234544716006440d",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/createbigcannons-5.11.7.mc.1.21.1.jar"
+    },
+    {
+      "file": "createdeco-2.1.3.jar",
+      "modid": "createdeco",
+      "version": "createdeco-2.1.3.jar",
+      "size": 3328498,
+      "sha512": "c536662f9d47ad57a37419165ded14835b23ad6c3e82a920298ecd7ee074244b0b6062ef9cc7ea4501ddd35919a840faccd7fc64e43eb8df31e12076681c3c0d",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/createdeco-2.1.3.jar"
+    },
+    {
+      "file": "create_aeronautics_automated_logistics-0.5.2.jar",
+      "modid": "create_aeronautics_automated_logistics",
+      "version": "create_aeronautics_automated_logistics-0.5.2.jar",
+      "size": 1148582,
+      "sha512": "7114dc961ff1fb20f19358721e32184eee20a5aad8123a2199152204745688bcaeabdfcf05aba016bf844caba90860ad7ac22c2c4e4ea71e9de3f80e2d3a7416",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/create_aeronautics_automated_logistics-0.5.2.jar"
+    },
+    {
+      "file": "create_submarine-2.2.4.jar",
+      "modid": "create_submarine",
+      "version": "create_submarine-2.2.4.jar",
+      "size": 1869296,
+      "sha512": "6b87d72f1036489c44cd033170abe10f8b5210ef8265823f29cd51531444e78384863ca321b7cdcc23924940161226327ab774cfd1d91d5e2ea8ba599b0eae31",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/create_submarine-2.2.4.jar"
+    },
+    {
+      "file": "create_wizardry-1.21.1-0.5.0.jar",
+      "modid": "create_wizardry",
+      "version": "create_wizardry-1.21.1-0.5.0.jar",
+      "size": 604049,
+      "sha512": "3a1f3f10300506aa3886454f60acde0369b3496106fff24ac590675b1113931864c7892f39ac8fa0db4ca305b4f283b0d4b2f416f80c48dc5057b58665844f81",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/create_wizardry-1.21.1-0.5.0.jar"
+    },
+    {
+      "file": "CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
+      "modid": "creativecore",
+      "version": "CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
+      "size": 1218640,
+      "sha512": "2713dbd456f56f26ef934e5feb4bfb4578a66d0af056eb02670155affceb574d1237203e443e05908d88f3af8de47b52d0216d156028b77b5337f6283b7f4398",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar"
+    },
+    {
+      "file": "cristellib-neoforge-1.21.1-3.1.7.jar",
+      "modid": "cristellib",
+      "version": "cristellib-neoforge-1.21.1-3.1.7.jar",
+      "size": 583525,
+      "sha512": "6d21ceb6cd91e63a248251ded3812208ed5ea4f36abb11e8c6e16aa119a95b0e714f59ec7689ae1b1248c9831e5e3e63aa681aa7dfa9b220d93741118466cbd6",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/cristellib-neoforge-1.21.1-3.1.7.jar"
+    },
+    {
+      "file": "cupboard-1.21.1-3.9.jar",
+      "modid": "cupboard",
+      "version": "cupboard-1.21.1-3.9.jar",
+      "size": 28829,
+      "sha512": "c2501b3830aaf1a3066f4c7fb12d9b229cc54f56f1d7dbf1593a5e7a979d0a1cce25ac7dd595ee1eb45bcdf34cae30eb3302a2b63e130c1efb28a420e0130240",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/cupboard-1.21.1-3.9.jar"
+    },
+    {
+      "file": "curios-neoforge-9.5.1+1.21.1.jar",
+      "modid": "curios",
+      "version": "curios-neoforge-9.5.1+1.21.1.jar",
+      "size": 410690,
+      "sha512": "5981a267686b744e7e3c227f78cbcd5267c14ac6979a28e814695f4589273998563147207fef4a5cdb7cdbdc39797cd95d9e4abadb55869f18e02a38d0654ae5",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/curios-neoforge-9.5.1.1.21.1.jar"
+    },
+    {
+      "file": "darkermagic-1.3.3-1.21.1-ver.b.jar",
+      "modid": "darkermagic",
+      "version": "darkermagic-1.3.3-1.21.1-ver.b.jar",
+      "size": 100219,
+      "sha512": "32cf251e1920ff784e91ec52c9db3516fb22dbe7119b0c450e85e2ae1b1500fb5fde6cbc2ce03ce0dfa8e20e1a17053d99a84cc7e59ae41c3b7607650bd4abdf",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/darkermagic-1.3.3-1.21.1-ver.b.jar"
     },
     {
       "file": "darkstarter-neoforge-1.21-1.1.8.jar",
@@ -22,6 +526,177 @@
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/darkstarter-neoforge-1.21-1.1.8.jar"
     },
     {
+      "file": "deeperdarker-neoforge-1.21.1-1.4.1.jar",
+      "modid": "deeperdarker",
+      "version": "deeperdarker-neoforge-1.21.1-1.4.1.jar",
+      "size": 3906057,
+      "sha512": "38d8d87878f39a063feb029db17702bedadf7554233ae56db6018c21225b6dff4d4cc31f4b0995254fd488e2a687f3b15bf9647c59dd42b9032791d34316ed0c",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/deeperdarker-neoforge-1.21.1-1.4.1.jar"
+    },
+    {
+      "file": "defaultoptions-neoforge-1.21.1-21.1.8.jar",
+      "modid": "defaultoptions",
+      "version": "defaultoptions-neoforge-1.21.1-21.1.8.jar",
+      "size": 105507,
+      "sha512": "29f66777068d92b1e149630d569441e5176ac40ec5cb4ee6c63c565aa7d475587a5097f59c433d69a39fd238b64902e2ba742b30c26419de901c86a3300b848e",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/defaultoptions-neoforge-1.21.1-21.1.8.jar"
+    },
+    {
+      "file": "discerning_the_eldritch-1.4.3-1.21.jar",
+      "modid": "discerning_the_eldritch",
+      "version": "discerning_the_eldritch-1.4.3-1.21.jar",
+      "size": 22100057,
+      "sha512": "8933c42cde1851f1352c0bd858d4e2eb9fc84697e3f000e840471c7488042a639db6aa9530ce873a82d79908acedee7ea5432acd9d510b5efb8c811a5e248f1e",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/discerning_the_eldritch-1.4.3-1.21.jar"
+    },
+    {
+      "file": "dreamless_spells-1.1.9.jar",
+      "modid": "dreamless_spells",
+      "version": "dreamless_spells-1.1.9.jar",
+      "size": 443506,
+      "sha512": "6fc680f96c54a934b877b0c40517ed6f4a7076463c1e8f4128c2a4587bd668cf7953233eac9c96c692cc0ad2c3ed92131e270609c8e0b4232fefec46639cd5ce",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/dreamless_spells-1.1.9.jar"
+    },
+    {
+      "file": "dungeons-and-taverns-v4.4.4 [NeoForge].jar",
+      "modid": "mr_dungeons_andtaverns",
+      "version": "dungeons-and-taverns-v4.4.4 [NeoForge].jar",
+      "size": 24859622,
+      "sha512": "83069dc336bcc212059f753923373d9522aa5953bf4b4fe2a8cfa666b4e28d2d017daa66c4b35e315c3be8d1ad60c2872879dd47cc1f47665ebbfd102da76976",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/dungeons-and-taverns-v4.4.4.NeoForge.jar"
+    },
+    {
+      "file": "dynamiccrosshair-9.11+1.21.1-neoforge.jar",
+      "modid": "dynamiccrosshair",
+      "version": "dynamiccrosshair-9.11+1.21.1-neoforge.jar",
+      "size": 514029,
+      "sha512": "4c16d5cb8233a99857b124d32d0a2b5ba85a7d89144bcf244be81993fba6b412498f061818aa703b7d322b5cbe0ed352c0d51805c37bacc80132e3edfd06f556",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/dynamiccrosshair-9.11.1.21.1-neoforge.jar"
+    },
+    {
+      "file": "dynamicvillage-0.7-1.21.1.jar",
+      "modid": "dynamicvillage",
+      "version": "dynamicvillage-0.7-1.21.1.jar",
+      "size": 242380,
+      "sha512": "1946e8c036a4152876f93d3affe4739c247ab0f3a7e8a5f3d990354027960979f84aadd5356ac079a6383235609e2ff130e0cda06697e050a09b87addb1c1cc0",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/dynamicvillage-0.7-1.21.1.jar"
+    },
+    {
+      "file": "endrem-neoforge-1.21.1-6.3.0.jar",
+      "modid": "endrem",
+      "version": "endrem-neoforge-1.21.1-6.3.0.jar",
+      "size": 934349,
+      "sha512": "c378f7ae17e1b4a95cc597d365ad3aafac01836042bb70738486f94c82eec347ae44d54182cdd69fb495dd65891fa4b1a7a555e2fb637bdf6fc830e3f9b9d7ee",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/endrem-neoforge-1.21.1-6.3.0.jar"
+    },
+    {
+      "file": "enigmatic_arcana-1.1.0.jar",
+      "modid": "enigmatic_arcana",
+      "version": "enigmatic_arcana-1.1.0.jar",
+      "size": 209357,
+      "sha512": "9d041f6a3dab3de1db4d02fa4269983b833a4856393ab789a8a48074a97db905269faf1ad16fc4d99b25aab1e844362ba1cdc3b0cee6b4ac7a9bf2d63306d41b",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/enigmatic_arcana-1.1.0.jar"
+    },
+    {
+      "file": "entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "modid": "entityculling",
+      "version": "entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "size": 1585287,
+      "sha512": "0c22502b84b13d8ac6daffe14ac77e7306b5b7a48f5cd9b3950d9e1d60b3786104aa035fbfdb208b1c9a75ad0e356301a774da32edc3f71cb3a53e2d28fd39e6",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/entityculling-neoforge-1.10.5-mc1.21.1.jar"
+    },
+    {
+      "file": "entity_model_features-3.2.4-1.21-neoforge.jar",
+      "modid": "entity_model_features",
+      "version": "entity_model_features-3.2.4-1.21-neoforge.jar",
+      "size": 567827,
+      "sha512": "840866c0b5168b04713652cf31d8a8bc6ed47d9748a78e0e9f07d201e03d2a276f0edfe727a8bffebe7396595876499d8d4f420fc2ff2e71fbc45128ca6c4e11",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/entity_model_features-3.2.4-1.21-neoforge.jar"
+    },
+    {
+      "file": "entity_texture_features_1.21-neoforge-7.1.jar",
+      "modid": "entity_texture_features",
+      "version": "entity_texture_features_1.21-neoforge-7.1.jar",
+      "size": 752334,
+      "sha512": "fc4b6a75ad57defb944d188fac78e45a33342a2c2a2b0e673c81ac370df09335d4371c8e10bea8f593da4b1f1c2fcc361c124b274ee4b3c2ae75571f00742059",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/entity_texture_features_1.21-neoforge-7.1.jar"
+    },
+    {
+      "file": "ess_requiem-0.1.6.jar",
+      "modid": "ess_requiem",
+      "version": "ess_requiem-0.1.6.jar",
+      "size": 1928899,
+      "sha512": "31eaf39100cfd1f285edacc62fe9ff93b2f0f3b1d9e761565d643510a656e2bd00dbe9efeb928be154ebf184b8aacae7de9184d570759ae06ade8e5d9152aa6a",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/ess_requiem-0.1.6.jar"
+    },
+    {
+      "file": "EvilSeagull-1.0.0-NeoForge.jar",
+      "modid": "evilseagull",
+      "version": "EvilSeagull-1.0.0-NeoForge.jar",
+      "size": 640255,
+      "sha512": "da129d30d17444c70ad0ba43a611ff8dab869fc7d61ddf453fddaf9507fcbf758bc0fcadb609e4236cad74dd758cd0e636ef1c2890829cdffa4e2c88cb22efe3",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/EvilSeagull-1.0.0-NeoForge.jar"
+    },
+    {
+      "file": "expandability-12.0.0.jar",
+      "modid": "expandability",
+      "version": "expandability-12.0.0.jar",
+      "size": 44765,
+      "sha512": "f6a13c859ce5ccb025e4af3a8ed71733e20159d510d3e9f344520e6fe8b3827cdc52bfbe02f996d97eb27c9f5c9fc65d8bf82fe72c976aab702b56a7ee1a806b",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/expandability-12.0.0.jar"
+    },
+    {
+      "file": "Explorify v1.6.5.mod.jar",
+      "modid": "explorify",
+      "version": "Explorify v1.6.5.mod.jar",
+      "size": 767884,
+      "sha512": "9b22adeb1952ec25856e160b93aaa41934fd41e8d1aef985317cb2c9d64aae1012e134e23f52ba39fac3a98b3309b60f0b55b98a4db4de1731960b998117c83e",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/Explorify.v1.6.5.mod.jar"
+    },
+    {
+      "file": "familiarslib-1.21.1-1.7.1.jar",
+      "modid": "familiarslib",
+      "version": "familiarslib-1.21.1-1.7.1.jar",
+      "size": 341186,
+      "sha512": "7f31b89d3402c32d427d0184fb6b19f3d23a879aa813a846d5fe912da0ca62100b6e8b797f46b5f64981c08ccce64cbb0e098f49bf810485df4df6b0893802af",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/familiarslib-1.21.1-1.7.1.jar"
+    },
+    {
+      "file": "FarmersDelight-1.21.1-1.3.2.jar",
+      "modid": "farmersdelight",
+      "version": "FarmersDelight-1.21.1-1.3.2.jar",
+      "size": 3163042,
+      "sha512": "da5a4236427df8010d75992201c8723ac84a8fa71efa55670551d333cac94a90ae8e8c536da63ae07a67f4d00dc2774ae4151030f41d26886e508f4a037c8694",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/FarmersDelight-1.21.1-1.3.2.jar"
+    },
+    {
+      "file": "fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+      "modid": "fastipping",
+      "version": "fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+      "size": 10413,
+      "sha512": "aaaf3c1494e240aa61d5191521cf324aab82a3d08c0a5dfa1db516bb26a6b165639b98fc8e9946bd65ad5048ecb6b96601d9febbd1d536f8e1ed5b72c741461f",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar"
+    },
+    {
       "file": "FastFurnace-1.21.1-9.0.1.jar",
       "modid": "fastfurnace",
       "version": "FastFurnace-1.21.1-9.0.1.jar",
@@ -31,6 +706,15 @@
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/FastFurnace-1.21.1-9.0.1.jar"
     },
     {
+      "file": "FastItemFrames-v21.1.6-1.21.1-NeoForge.jar",
+      "modid": "fastitemframes",
+      "version": "FastItemFrames-v21.1.6-1.21.1-NeoForge.jar",
+      "size": 98320,
+      "sha512": "3c8a0cf3909ecf63bb6d059ee899fd6a0a326fcd1be3395447da04b4ea2dde8e991b5ae2ebf5dbe6adad8e8be1b04dde152a5ac071cf24adce1ce90608dbfb4d",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/FastItemFrames-v21.1.6-1.21.1-NeoForge.jar"
+    },
+    {
       "file": "fastleafdecay-35.jar",
       "modid": "fastleafdecay",
       "version": "fastleafdecay-35.jar",
@@ -38,6 +722,1131 @@
       "sha512": "795f7e5a03b65705d18901fe28034df771e1843aabd16bfe49fe77b534938424ce26f3d0f723cd78ada058989bb758d14f091ca111f0b1e4d195e8baa031bbc5",
       "source": "github",
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/fastleafdecay-35.jar"
+    },
+    {
+      "file": "Fastquit-3.0.1+1.21.1neoforge.jar",
+      "modid": "fastquit",
+      "version": "Fastquit-3.0.1+1.21.1neoforge.jar",
+      "size": 152056,
+      "sha512": "a889e2a9a3237e9f39bd99d54b5e31e299f1cbc3a8e4b5d49b50dfb67ea142a6fc37b0f38a272834adfb2e8ab639c3b13e953b9a3d42c8e551c28f67bd49a801",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/Fastquit-3.0.1.1.21.1neoforge.jar"
+    },
+    {
+      "file": "FastSuite-1.21.1-6.0.7.jar",
+      "modid": "fastsuite",
+      "version": "FastSuite-1.21.1-6.0.7.jar",
+      "size": 28192,
+      "sha512": "16356d513a7569d3b6815c4697b916098e0fdfbe2f2d0189c19099e95569a363d1442607b32666c7028a2c702040bdaf18b4224bcc5a39fe32dc38b00947534f",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/FastSuite-1.21.1-6.0.7.jar"
+    },
+    {
+      "file": "FastWorkbench-1.21.1-9.1.3.jar",
+      "modid": "fastbench",
+      "version": "FastWorkbench-1.21.1-9.1.3.jar",
+      "size": 28635,
+      "sha512": "46a4a445b4c3ae93d2f8c6399af7e2a2ddbdd0f6853f1a839b45ab9443aff90e89b8bff91b49a0b9ed2ad787e2584b166b0996dcf178b49bf5909085df252357",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/FastWorkbench-1.21.1-9.1.3.jar"
+    },
+    {
+      "file": "ferritecore-7.0.3-neoforge.jar",
+      "modid": "ferritecore",
+      "version": "ferritecore-7.0.3-neoforge.jar",
+      "size": 121559,
+      "sha512": "19af89a2075bb10a63884fa853ebf84b02c79dc3242430ecdad056fd764fdcde367a7303276b329df01b0736e2ef264c5d80c7dc92c6aebd244f556a230bb417",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/ferritecore-7.0.3-neoforge.jar"
+    },
+    {
+      "file": "firesenderexpansion-2.4.1.jar",
+      "modid": "firesenderexpansion",
+      "version": "firesenderexpansion-2.4.1.jar",
+      "size": 2442013,
+      "sha512": "9f8f92334926fef89115d7cbf60dc480d5020e6714a7d7b34b5a806fc9e92ea6d63c73778e8980f7ecfba653f590fe0d5799ca155c199d6fe5510b3063701333",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/firesenderexpansion-2.4.1.jar"
+    },
+    {
+      "file": "framework-neoforge-1.21.1-0.13.11.jar",
+      "modid": "framework",
+      "version": "framework-neoforge-1.21.1-0.13.11.jar",
+      "size": 387334,
+      "sha512": "bcc662c5588d0bd898f0878913b6d94d13e8fe7d58b54ae4fa15cf584a6ed5a4d202533f71f7ca40affcbd221da3d29d8b3af06329ae84faf75c68da99f27551",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/framework-neoforge-1.21.1-0.13.11.jar"
+    },
+    {
+      "file": "ftb-chunks-neoforge-2101.1.21.jar",
+      "modid": "ftbchunks",
+      "version": "ftb-chunks-neoforge-2101.1.21.jar",
+      "size": 655753,
+      "sha512": "11da07181b3287e6db33ac43120e4c0628f4f93ab0cf8f34be1ebf4ce9c3f93d66174d0c5e5ff653b78c8974f48b80fb624dabaaf4edfdfe3f420a1c3c627134",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/ftb-chunks-neoforge-2101.1.21.jar"
+    },
+    {
+      "file": "ftb-library-neoforge-2101.1.34.jar",
+      "modid": "ftblibrary",
+      "version": "ftb-library-neoforge-2101.1.34.jar",
+      "size": 1439001,
+      "sha512": "175602cdb000c62aab2ff95b1857d089e1b7e4ae1264fb3595e5574da93b5b9b11483587b3b423d09bc6d6217208b0eaa6cfcdcbaad6062881621ef69b72e2f1",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/ftb-library-neoforge-2101.1.34.jar"
+    },
+    {
+      "file": "ftb-quests-neoforge-2101.1.29.jar",
+      "modid": "ftbquests",
+      "version": "ftb-quests-neoforge-2101.1.29.jar",
+      "size": 1595992,
+      "sha512": "ba1fc21f7750adad5692566fe07bc53a2584b2891a17a3e5239f10fbd1f6088a738dec027b925b2a64c97377b023c189d8014695fee9b7cdaef8dd41255b5c90",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/ftb-quests-neoforge-2101.1.29.jar"
+    },
+    {
+      "file": "ftb-teams-neoforge-2101.1.10.jar",
+      "modid": "ftbteams",
+      "version": "ftb-teams-neoforge-2101.1.10.jar",
+      "size": 302712,
+      "sha512": "203269a3ef53b47f497ab621527c78e7ff1912c488cab9247d68df5fb01f6212530f9929599befca302889257bf3cd6dba9b9ee9070f1ef51785f1e44774639f",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/ftb-teams-neoforge-2101.1.10.jar"
+    },
+    {
+      "file": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "modid": "fzzy_config",
+      "version": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "size": 2369895,
+      "sha512": "6071890aba7f2273c9fd508914acc7850de9d986423760f9ce416875ffa04eea2ad71a7a6f4d5f90f0625a672f6f54606778d11151b155f3fd98c223c61a4a6d",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/fzzy_config-0.7.6.1.21.neoforge.jar"
+    },
+    {
+      "file": "Galosphere-1.21.1-1.5.5-NeoForge.jar",
+      "modid": "galosphere",
+      "version": "Galosphere-1.21.1-1.5.5-NeoForge.jar",
+      "size": 35545869,
+      "sha512": "2ac38a71cae2adbad3f9891c2ec038b626c384e750f83c535810f1b234e3b78f80863b6089de9fbb92e3ba479a130d9e3d7f64cf6a4f11bd9cb4e01ce5d7e97d",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/Galosphere-1.21.1-1.5.5-NeoForge.jar"
+    },
+    {
+      "file": "galosphere_spellbooks-1.1.3.jar",
+      "modid": "galosphere_spellbooks",
+      "version": "galosphere_spellbooks-1.1.3.jar",
+      "size": 31382,
+      "sha512": "e4f3a1ae1b7978095455d06bc1c0e61892b8bfd7ac76f2ee8dd91b7cfcc7c9f692c58a9bf4faaedda7de61d8bfd25e1b1f251ff86e07ca105cfe01ef8105b80f",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/galosphere_spellbooks-1.1.3.jar"
+    },
+    {
+      "file": "gametechbcs_spellbooks-3.0.0-1.21.1.jar",
+      "modid": "gametechbcs_spellbooks",
+      "version": "gametechbcs_spellbooks-3.0.0-1.21.1.jar",
+      "size": 1689146,
+      "sha512": "b789774e3a9624ee807f5044f5547399c88a22a6b5dd995783661c5ad17bce36a3785e996693bf0bba3e2e31bf5826e668273d3b2493f476af2ea2aac8228019",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/gametechbcs_spellbooks-3.0.0-1.21.1.jar"
+    },
+    {
+      "file": "geckolib-neoforge-1.21.1-4.9.2.jar",
+      "modid": "geckolib",
+      "version": "geckolib-neoforge-1.21.1-4.9.2.jar",
+      "size": 630584,
+      "sha512": "c91012b16cc40c8f48f69b78cb8e2e5c006486ae2431fbd289dfc01be7a4217294becea22d83a155d6b32b3969450df871352a3695e1452168b84f41355f7b9e",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/geckolib-neoforge-1.21.1-4.9.2.jar"
+    },
+    {
+      "file": "gnetum-3.3.6.jar",
+      "modid": "gnetum",
+      "version": "gnetum-3.3.6.jar",
+      "size": 120726,
+      "sha512": "4a5efde1d9525cad773a5d1aa32a3d6734d2aee8c8e6894012b8244bb305eee823024b75eb6d3e140f075f3a254efc26efc4c5eb6f2ac390be96877686019f68",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/gnetum-3.3.6.jar"
+    },
+    {
+      "file": "gravestone-neoforge-1.21.1-1.0.38.jar",
+      "modid": "gravestone",
+      "version": "gravestone-neoforge-1.21.1-1.0.38.jar",
+      "size": 321850,
+      "sha512": "ee97b54ab9c33cafbe236c7a9805298dfab2004b9f94144ce656e9929839ee9a50f29cdfb4dffde85b64faa5e3c0f989aacee4204c2d0f0ca9b80bfdffe5d12e",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/gravestone-neoforge-1.21.1-1.0.38.jar"
+    },
+    {
+      "file": "gravestonecurioscompat-1.21.1-NeoForge-3.0.1.jar",
+      "modid": "gravestonecurioscompat",
+      "version": "gravestonecurioscompat-1.21.1-NeoForge-3.0.1.jar",
+      "size": 14841,
+      "sha512": "61e97e1af9b3439f66c8f79e68f9c8b0feec8ac6bf21f8f2e2d5c888534c4420b96e3067c7937accb42889e3146eadb90ee3a3daae3e89e41441849386805f4c",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/gravestonecurioscompat-1.21.1-NeoForge-3.0.1.jar"
+    },
+    {
+      "file": "gtbcs_geomancy_plus-1.1.0-1.21.1.jar",
+      "modid": "gtbcs_geomancy_plus",
+      "version": "gtbcs_geomancy_plus-1.1.0-1.21.1.jar",
+      "size": 475333,
+      "sha512": "3231b38f7f69450dcd814b41f492814e716befd5b6529d7391b60387ebd7eedf8ba2f9547a36a70c67a783590e59e90a48792ea5c1525bfa16f4eea526e53c2f",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/gtbcs_geomancy_plus-1.1.0-1.21.1.jar"
+    },
+    {
+      "file": "gtbcs_spell_lib-1.6.0-1.21.1.jar",
+      "modid": "gtbcs_spell_lib",
+      "version": "gtbcs_spell_lib-1.6.0-1.21.1.jar",
+      "size": 154846,
+      "sha512": "6efeff49e377b2d7fcc886eeb3870b19ca6c9e1f80f36e6e42d2bc621871092ccb42d2d13612bd347c714eb5eb81cd016f194cca9b78889bb5a047c2e936019e",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/gtbcs_spell_lib-1.6.0-1.21.1.jar"
+    },
+    {
+      "file": "handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "modid": "handcrafted",
+      "version": "handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "size": 7132842,
+      "sha512": "4ff5fb2aa9582b886d03f647fe9b8c12a828d29a1787e9c9b463be18192ea798e6a4ac83479623042791bce0bacbf6e3e2c2e9ef086640aeeb6970d3404e7ee4",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/handcrafted-neoforge-1.21.1-4.0.3.jar"
+    },
+    {
+      "file": "hazennstuff-1.4.0.14.jar",
+      "modid": "hazennstuff",
+      "version": "hazennstuff-1.4.0.14.jar",
+      "size": 7921289,
+      "sha512": "e7e9bc4e208501348e5b2b012a85b37af27ab08b04d3d6f968b17df47b152f7345d5ffeac5a811f5593e225c8767c928c2a13b1304a6ecd18b4bca2bf1c4945d",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/hazennstuff-1.4.0.14.jar"
+    },
+    {
+      "file": "hazentouvelib-1.0.8.jar",
+      "modid": "hazentouvelib",
+      "version": "hazentouvelib-1.0.8.jar",
+      "size": 313380,
+      "sha512": "73bbc7847313297ec61451ba7c47e268391ab8816a7c3837ce2072bf4d9c7ba2573c0d1d374ef3be28b0ebba27f7c7c4e082fa48ec57afa3745a2a58a4c01999",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/hazentouvelib-1.0.8.jar"
+    },
+    {
+      "file": "holdmyitemsnf-1.21.1v2.1.jar",
+      "modid": "holdmyitemsnf",
+      "version": "holdmyitemsnf-1.21.1v2.1.jar",
+      "size": 107291,
+      "sha512": "1e84e1c71a2e6247c4f1267418959f211728b5b0c60ddfaab63c669a7ea3f9836a883b9e621d75d4f2f24ce1d1f1d08b92a97c41f10a72c30218cc38585432f7",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/holdmyitemsnf-1.21.1v2.1.jar"
+    },
+    {
+      "file": "IceAndFireCE-2.0-beta.15-1.21.1-neoforge.jar",
+      "modid": "iceandfire",
+      "version": "IceAndFireCE-2.0-beta.15-1.21.1-neoforge.jar",
+      "size": 20933691,
+      "sha512": "266125f3a56ec311ee3a8f780cd6123fc58f2769ac1784acb7ebf1ad4f520f01dcd0fedf294342f160d774e2aa194a298b3451d638545be37b75007ead2b2d66",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/IceAndFireCE-2.0-beta.15-1.21.1-neoforge.jar"
+    },
+    {
+      "file": "Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "modid": "iceberg",
+      "version": "Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "size": 213853,
+      "sha512": "19d33195cfee0a640f40fb64d82346df7ac970ddb43ed68ba2dacb4793b18d577fd57dd43a4c2e94f731487c024b8d7ebcc52721764ec9d8a87bd68fc7df5c96",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/Iceberg-1.21.1-neoforge-1.3.2.jar"
+    },
+    {
+      "file": "ice_and_fire_spellbooks-2.3.3-1.21.1.jar",
+      "modid": "ice_and_fire_spellbooks",
+      "version": "ice_and_fire_spellbooks-2.3.3-1.21.1.jar",
+      "size": 173108,
+      "sha512": "1ef42e738282ec28e9c9d29ccdea4308cef78008a0bc08ea2c6f97c732401bd07a6eedca91faaf34bad3061b720415a9fc51eaa4b5ea82d1c0bb224eedf7030f",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/ice_and_fire_spellbooks-2.3.3-1.21.1.jar"
+    },
+    {
+      "file": "ironssablecompat-1.0.4.jar",
+      "modid": "ironssablecompat",
+      "version": "ironssablecompat-1.0.4.jar",
+      "size": 65043,
+      "sha512": "592e3e8b90105a47338d9233c550aca08f4dfd06f41edca69b5a309fd1d55a016289cc00d88340e037f8d48e29a80bb6311fbca87cfb59702cbab6b21bba897b",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/ironssablecompat-1.0.4.jar"
+    },
+    {
+      "file": "ironsspellsandunstablespellbooks-0.6.0.jar",
+      "modid": "ironsspellsandunstablespellbooks",
+      "version": "ironsspellsandunstablespellbooks-0.6.0.jar",
+      "size": 57042,
+      "sha512": "bba2be92f7b8a9cb28175237e720fb36b736663fc56cd2a71b7b0d35ea772f6dd920914d05e2c0015e742650886f9702104e0992dd66c79968c080e4af13bf1b",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/ironsspellsandunstablespellbooks-0.6.0.jar"
+    },
+    {
+      "file": "irons_apothic-2.2.1.jar",
+      "modid": "irons_apothic",
+      "version": "irons_apothic-2.2.1.jar",
+      "size": 250582,
+      "sha512": "0eb69888f81e13e16a2f6d859b6150d2974c2edb72c760d9cbfbca8ad617e622e95dcd4b5fc021be1743a503f4333dac1f7190db045e336a35f64a6fbf7dd17a",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/irons_apothic-2.2.1.jar"
+    },
+    {
+      "file": "irons_apothic_invaders_1.0.0.jar",
+      "modid": "irons_apothic_invaders",
+      "version": "irons_apothic_invaders_1.0.0.jar",
+      "size": 124889,
+      "sha512": "6896becf09749e8916211b3fbee96f03b89066283ed26cf2930d928d21c1c37069aaca692e00a7b439c3c47aef05a7cc872ce27568cec9ed71fbc10198fd4cb0",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/irons_apothic_invaders_1.0.0.jar"
+    },
+    {
+      "file": "irons_jewelry-1.21.1-2.0.2.jar",
+      "modid": "irons_jewelry",
+      "version": "irons_jewelry-1.21.1-2.0.2.jar",
+      "size": 731614,
+      "sha512": "d77f5b1e8c72ce7bba7fdf48b3e9de980bdde01db852527f316c0c2800ebe3fd99728cd0ffe86521e7997199cb7db5405856dadd8ca779ddd66b46f9bf1ff9eb",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/irons_jewelry-1.21.1-2.0.2.jar"
+    },
+    {
+      "file": "irons_lib-1.21.1-2.1.0.jar",
+      "modid": "irons_lib",
+      "version": "irons_lib-1.21.1-2.1.0.jar",
+      "size": 406284,
+      "sha512": "63f4c2575ac6e031e28d36f87a84d823ebfad389aee49f5315cdf3cfd47af3fa3b8f546af986e48dba72466a0d63c08158b885fc415497c237361ca57dc8e99b",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/irons_lib-1.21.1-2.1.0.jar"
+    },
+    {
+      "file": "irons_recipe_additions-1.7-neoforge-1.21.1.jar",
+      "modid": "irons_recipe_additions",
+      "version": "irons_recipe_additions-1.7-neoforge-1.21.1.jar",
+      "size": 16375,
+      "sha512": "54749af61f77c667937d634bc64b678d2bd1b03fd8037387fe08b93de39753e5cd3457d3d1708c05d3bca4f49c58a66f864d713bd7382350ba94c676e4ed587b",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/irons_recipe_additions-1.7-neoforge-1.21.1.jar"
+    },
+    {
+      "file": "irons_spellbooks-1.21.1-3.16.2.jar",
+      "modid": "irons_spellbooks",
+      "version": "irons_spellbooks-1.21.1-3.16.2.jar",
+      "size": 13874139,
+      "sha512": "84c3948ac4703e35e9e79d83ede0cb2345995f200909f113d08db506e0368548808f5133b45893cfa9fb855ed4e98952e9e8636d61c86f6a0198101adb7e17b4",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/irons_spellbooks-1.21.1-3.16.2.jar"
+    },
+    {
+      "file": "iss_magicfromtheeast-1.1.5.jar",
+      "modid": "iss_magicfromtheeast",
+      "version": "iss_magicfromtheeast-1.1.5.jar",
+      "size": 1680780,
+      "sha512": "2ebd749e189cc4b531a918915df724e2659f72ecccfe1ebb0e93fda02fd1e90e681e67c5a721627b85bfb371cdbd0dbb634a80ee6f189d3c3b374335e74308d5",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/iss_magicfromtheeast-1.1.5.jar"
+    },
+    {
+      "file": "ISS_VirtualWitchArrangement-NeoForge-1.21.1-1.0.0.jar",
+      "modid": "virtualwitcharrangement",
+      "version": "ISS_VirtualWitchArrangement-NeoForge-1.21.1-1.0.0.jar",
+      "size": 22968,
+      "sha512": "0c7613f5a995bf03c2aed0173ed9a57be9d922344fc0c722b4b00324ad622aeaea369501e04260090e3826599c32b3d024ddf68cfef8a3dc4c839f8e375b6462",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/ISS_VirtualWitchArrangement-NeoForge-1.21.1-1.0.0.jar"
+    },
+    {
+      "file": "Ixeris-4.6.2+1.21.1-neoforge.jar",
+      "modid": "ixeris_dummy",
+      "version": "Ixeris-4.6.2+1.21.1-neoforge.jar",
+      "size": 681754,
+      "sha512": "e1d5514f94aed80c8bcf09b0dfe1b9dd6b11273e112b9eb6e3365ec8685b314ae20f6d4d1edd7c2b1f4b3138f0f2e15a2a3d661ae8a81f3229c23bca65ab4310",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/Ixeris-4.6.2.1.21.1-neoforge.jar"
+    },
+    {
+      "file": "Jade-1.21.1-NeoForge-15.10.5.jar",
+      "modid": "jade",
+      "version": "Jade-1.21.1-NeoForge-15.10.5.jar",
+      "size": 725742,
+      "sha512": "678b998677a3d73f98f82dac4093893bfc8a3c2335ec627b4147811c381a040475decdb8db31cc3cbe600abb5a7a6dedcd356eed0ba471af0becdcf49bf5b137",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/Jade-1.21.1-NeoForge-15.10.5.jar"
+    },
+    {
+      "file": "jei-1.21.1-neoforge-19.43.0.393.jar",
+      "modid": "jei",
+      "version": "jei-1.21.1-neoforge-19.43.0.393.jar",
+      "size": 1685121,
+      "sha512": "04ea7c24a00b980851a34b71899c44731df5b830feafe4172641ae5f42432aabd34ba2ea57fa8f0577823bed0212c4214d409a8ea2060038deed0e8e7e237e81",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/jei-1.21.1-neoforge-19.43.0.393.jar"
+    },
+    {
+      "file": "jupiter-2.3.7-1.21.1-neoforge.jar",
+      "modid": "jupiter",
+      "version": "jupiter-2.3.7-1.21.1-neoforge.jar",
+      "size": 278988,
+      "sha512": "b91665a0e7e74d7bfdc3903a297bc97477fdeea49c43e03f1de000cbb09422bf35d06a6f67a68c36029be23cd35b753770354967f25b8f09473654ea85473ee0",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/jupiter-2.3.7-1.21.1-neoforge.jar"
+    },
+    {
+      "file": "kotlinforforge-5.12.0-all.jar",
+      "modid": "file:kotlinforforge-5.12.0-all.jar",
+      "version": "kotlinforforge-5.12.0-all.jar",
+      "size": 7279276,
+      "sha512": "a72aac9116f556a33494951fa30f6465da37fb58b2fffa1860feb6d5760bce8e636c32a7350c2eae50651c16405740cca0d94ba1b3a1ba5f87fe014dd941a3f8",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/kotlinforforge-5.12.0-all.jar"
+    },
+    {
+      "file": "krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
+      "modid": "krypton_fnp",
+      "version": "krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
+      "size": 1015871,
+      "sha512": "72892ac3bee596d30ee5e5d64d78c3da237c3e30c913c58cfadc3fad555c0140e4d04db5ce537805d991e111deeb03c23eea0d10e385ad1b7502b674102cac74",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar"
+    },
+    {
+      "file": "Ksyxis-1.4.3.jar",
+      "modid": "ksyxis",
+      "version": "Ksyxis-1.4.3.jar",
+      "size": 26968,
+      "sha512": "55b1ec940910a6c36fa40595b0d7b8617e3a817c55ecb2d5c1ee54c026936d6f1a4bbe63228c60ebf75195bb14f3c9128c913ba949df2c5877b9b99d21bab9a4",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/Ksyxis-1.4.3.jar"
+    },
+    {
+      "file": "leaky-1.21-2.4.jar",
+      "modid": "leaky",
+      "version": "leaky-1.21-2.4.jar",
+      "size": 15483,
+      "sha512": "824cee50122f2eacf772f4197766b8193b8ef59329bc9bf5937e7d4a25a260ea636430ec1fa8edb1a83969dd9ec49207e56861d9f59f512ad7e87a6a1c20fe13",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/leaky-1.21-2.4.jar"
+    },
+    {
+      "file": "legendary_monsters-2.1.21 MC 1.21.1.jar",
+      "modid": "legendary_monsters",
+      "version": "legendary_monsters-2.1.21 MC 1.21.1.jar",
+      "size": 44614187,
+      "sha512": "3280dfaae208946cbf93c000cac7fe3d5829e16467aaec78b48976f2fa26ad6530210a3c3e28be9d35f26768796ed62d99b278687361cc977e0eadf65dda5d8a",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/legendary_monsters-2.1.21.MC.1.21.1.jar"
+    },
+    {
+      "file": "legendary_spellbooks-1.21.1+neo-0.3.2.jar",
+      "modid": "legendary_spellbooks",
+      "version": "legendary_spellbooks-1.21.1+neo-0.3.2.jar",
+      "size": 510127,
+      "sha512": "acdc3712c0701e732c46a8d0b6dc98c64b8a262de0613c029f6294b5d60f6741a1230b279a6ef6a3bb4088c5efcf0f5e72401d50a0033bd899f07b0274187cf8",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/legendary_spellbooks-1.21.1.neo-0.3.2.jar"
+    },
+    {
+      "file": "limitedchunks-1.21-4.1.jar",
+      "modid": "limitedchunks",
+      "version": "limitedchunks-1.21-4.1.jar",
+      "size": 16692,
+      "sha512": "255ee1bcbb638f401ed8712a174c13173b741edcbfa08df7ead944d4c6e2ec4aa5e29dfa0fb269aa8137e92f5143cf1f6957125e8b062ffb063f03ec826d6722",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/limitedchunks-1.21-4.1.jar"
+    },
+    {
+      "file": "lionfishapi-3.1.jar",
+      "modid": "lionfishapi",
+      "version": "lionfishapi-3.1.jar",
+      "size": 91596,
+      "sha512": "fdd90f19d0424c3a837111291d6ac1547d62cbcedd43b74d3a8946912f9c5212a5ea239a6969eccf678289bcb77cbb9a937db01fdaf60e57826f9a99893d19cb",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/lionfishapi-3.1.jar"
+    },
+    {
+      "file": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "modid": "lithium",
+      "version": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "size": 774220,
+      "sha512": "2735da2088b88a8bdcd4ad02a2b6fffbfd3925557cefd4fa54b5477dfb9e582ea7f521300c060f57dff1325dd21bff276b7333363ad3371ed6893e3de9eca9cd",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/lithium-neoforge-0.15.4.mc1.21.1.jar"
+    },
+    {
+      "file": "lodestone-1.21.1-1.8.2.jar",
+      "modid": "lodestone",
+      "version": "lodestone-1.21.1-1.8.2.jar",
+      "size": 818829,
+      "sha512": "6917080339b982d96cb4a7c98205ade5d89730191bc9113f4f8cd36bb1a760a91ad2421c8869c7063f8dea22a200d7d1896e0bb5e0e64119bb7590e32a998a23",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/lodestone-1.21.1-1.8.2.jar"
+    },
+    {
+      "file": "lootintegrations-1.21.1-4.7.jar",
+      "modid": "lootintegrations",
+      "version": "lootintegrations-1.21.1-4.7.jar",
+      "size": 36966,
+      "sha512": "4b4e96f698c50dabaf0a9e008053148bc9f671ce3ba6fb3e4ae5e3f387d4ed8a517f7299fa1cb3b0f2768380e8738bc3e325f7664f61caeec46e8f4048ddf17c",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/lootintegrations-1.21.1-4.7.jar"
+    },
+    {
+      "file": "lootr-neoforge-1.21.1-1.11.37.122.jar",
+      "modid": "lootr",
+      "version": "lootr-neoforge-1.21.1-1.11.37.122.jar",
+      "size": 992330,
+      "sha512": "b73036f27ce05864987bd5d3b6264edaf469848b0030ab484eaebdbc19644de515fd87886c3c3b80b8f87f87a87c71de810ec4f2ab481f94824a5e039ff8e752",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/lootr-neoforge-1.21.1-1.11.37.122.jar"
+    },
+    {
+      "file": "L_Ender's Cataclysm 1.21.1-3.32.jar",
+      "modid": "cataclysm",
+      "version": "L_Ender's Cataclysm 1.21.1-3.32.jar",
+      "size": 73362730,
+      "sha512": "0b34f16b499362e7bb00def8bcbb58eeab89f4d5aabbd124b18edf6e9734071a48ac041aca5ddf2eda53af11f6700fd3690f07af218bd16ce1312f5d13f64543",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/L_Ender.s.Cataclysm.1.21.1-3.32.jar"
+    },
+    {
+      "file": "mahoutsukai-1.21.1-v1.36.27.jar",
+      "modid": "mahoutsukai",
+      "version": "mahoutsukai-1.21.1-v1.36.27.jar",
+      "size": 5045082,
+      "sha512": "6fd1f103a8377e0d2d5346d83da38aa56fd4ec70925f27e6b3f119aef6fc5908367e5337da5561f280b7c8c6977eb16d03f15cb657176ba9210a02ddea0bcc92",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/mahoutsukai-1.21.1-v1.36.27.jar"
+    },
+    {
+      "file": "MajoSpellEnchantment-NeoForge-1.21.1-1.2.0.jar",
+      "modid": "majospellenchantment",
+      "version": "MajoSpellEnchantment-NeoForge-1.21.1-1.2.0.jar",
+      "size": 99285,
+      "sha512": "c176f21cf70bb8da909b6dee78dd092023754f63bf6929b1fb69c3d4a69106cb53d31c9fb254382e1d8e872774a5a3006fc5aa19b3b17f1650af7143ca631dc4",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/MajoSpellEnchantment-NeoForge-1.21.1-1.2.0.jar"
+    },
+    {
+      "file": "malum-1.21.1-1.8.2.jar",
+      "modid": "malum",
+      "version": "malum-1.21.1-1.8.2.jar",
+      "size": 33585331,
+      "sha512": "dd9ccc1dea3b090f69f807be3e7a8b99ec6d3d7d6b047e2893cb49ca505860bbf640cf767082c1a32ea403b35e2a9f9d1755327890bbfb2f8778058a9597a99e",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/malum-1.21.1-1.8.2.jar"
+    },
+    {
+      "file": "memorysettings-1.21-6.0.jar",
+      "modid": "memorysettings",
+      "version": "memorysettings-1.21-6.0.jar",
+      "size": 22329,
+      "sha512": "84e8afc8ac253678cac4bae061470e79617dbec9c853ec9385508eaf000901bcb84d0d5ec4ab3eefdaaf9e8ad641da5ecb7c96a7eb59813f75c94c5702e87ab9",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/memorysettings-1.21-6.0.jar"
+    },
+    {
+      "file": "midnightlib-neoforge-1.9.3+1.21.1.jar",
+      "modid": "midnightlib",
+      "version": "midnightlib-neoforge-1.9.3+1.21.1.jar",
+      "size": 61217,
+      "sha512": "5913e7e8ebbffb72323514aa5bedce19056884416d0a33b38af1761ee74cfa600996cde9bd7d709ee2158476faa2e735b2e6ea6107296d471d2c5b7b35d9da6c",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/midnightlib-neoforge-1.9.3.1.21.1.jar"
+    },
+    {
+      "file": "modernfix-neoforge-5.27.20+mc1.21.1.jar",
+      "modid": "modernfix",
+      "version": "modernfix-neoforge-5.27.20+mc1.21.1.jar",
+      "size": 599474,
+      "sha512": "b1f0d3ac5ada811b8204bc82adc1cab8ff71752da8e97ae381f21be5f778c199ae59108850febc87d1c46757b27ccbb2669f3fc6340c837db450a205ca2d8c9c",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/modernfix-neoforge-5.27.20.mc1.21.1.jar"
+    },
+    {
+      "file": "modonomicon-1.21.1-neoforge-1.120.4.jar",
+      "modid": "modonomicon",
+      "version": "modonomicon-1.21.1-neoforge-1.120.4.jar",
+      "size": 2399838,
+      "sha512": "797c0e5270ce2772968dffbe60143fa123653e7204a0ab816f24fa09a9db38aa6cb3bbccca5a9133b4df341cc47a8a6bce3ff0f95bd2011f7afb023450eef9a0",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/modonomicon-1.21.1-neoforge-1.120.4.jar"
+    },
+    {
+      "file": "monsterspellbooks-0.0.15.jar",
+      "modid": "monsterspellbooks",
+      "version": "monsterspellbooks-0.0.15.jar",
+      "size": 3715734,
+      "sha512": "6ebfe6cd36d33210b14c31ffb8e23480f4d61ebe3151891f94cf3b727da211a6a8adf4a2727e9f1c12ed97b0a3efd7af5dafcf3b29abca578518e09ba276ca6c",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/monsterspellbooks-0.0.15.jar"
+    },
+    {
+      "file": "MoogsEndStructures-1.21-2.0.3.jar",
+      "modid": "mes",
+      "version": "MoogsEndStructures-1.21-2.0.3.jar",
+      "size": 1210283,
+      "sha512": "eaf67a1854fe548f9537dbb0ec60a913d0126980db24840318ced7c3dd0740979b2821100d6acd37e85a73aca6a190d410b4d78d4503dc68e36b23a6dfcc7b17",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/MoogsEndStructures-1.21-2.0.3.jar"
+    },
+    {
+      "file": "MoogsNetherStructures-1.21-3.0.0.jar",
+      "modid": "mns",
+      "version": "MoogsNetherStructures-1.21-3.0.0.jar",
+      "size": 3794509,
+      "sha512": "e9ea480ace4d91b03babcc63b9006c917c2e591a33102811f425ef5c8c3fc45926552ea1afbb8fbfc092a88862a804a0f1d99c75ae9a0c791d1ccdc71b49406a",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/MoogsNetherStructures-1.21-3.0.0.jar"
+    },
+    {
+      "file": "MoogsSoaringStructures-1.21-2.1.2.jar",
+      "modid": "mss",
+      "version": "MoogsSoaringStructures-1.21-2.1.2.jar",
+      "size": 3621647,
+      "sha512": "85e13d55a2f191e0dc88c5e84927cfe0a48878673a6c42badb67ab7189c76112ecfa9ac3d68b2c015f7208086e2873ae69fa029f4a3d31c3bc5170568bf33e56",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/MoogsSoaringStructures-1.21-2.1.2.jar"
+    },
+    {
+      "file": "MoogsVoyagerStructures-1.21-5.0.14.jar",
+      "modid": "mvs",
+      "version": "MoogsVoyagerStructures-1.21-5.0.14.jar",
+      "size": 1796857,
+      "sha512": "222668d0608270c8cd1244287a7659a8f55426c3d64389e402c01f4070fcd03ae907098fe8eb8e2f9317c786f227f91ad4ffea58bf3f49bc5b2b43bd6c493ea6",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/MoogsVoyagerStructures-1.21-5.0.14.jar"
+    },
+    {
+      "file": "moogs_structures-neoforge-1.21.1-3.0.3.jar",
+      "modid": "moogs_structures",
+      "version": "moogs_structures-neoforge-1.21.1-3.0.3.jar",
+      "size": 336607,
+      "sha512": "dabecc356d94179927a4a569641af76698a7dca75bbe507ff724cff3e2cf8288efb365cdff97c3aee70d7b48962101a4eed5b9064159ce4ccc792c3b14874bee",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/moogs_structures-neoforge-1.21.1-3.0.3.jar"
+    },
+    {
+      "file": "moonlight-neoforge-1.21.1-3.3.0.jar",
+      "modid": "moonlight",
+      "version": "moonlight-neoforge-1.21.1-3.3.0.jar",
+      "size": 2135671,
+      "sha512": "a48a80b9304f9a1d7998fac7b9f06c0fae66984b8073482cd731982f89d59bb66c9f4da9bd37cb33165a2ff15a90141892d4d43973959ed9f19e274538933825",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/moonlight-neoforge-1.21.1-3.3.0.jar"
+    },
+    {
+      "file": "moreculling-neoforge-1.21.1-1.0.9.jar",
+      "modid": "moreculling",
+      "version": "moreculling-neoforge-1.21.1-1.0.9.jar",
+      "size": 335661,
+      "sha512": "b85ef19b3a40b948485ab84af07fd97fc7ecf43832147883bd2c1d2db8c6df99236fb1f0622afd144341742fa397f7a37bec21204380350a14c1818299209466",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/moreculling-neoforge-1.21.1-1.0.9.jar"
+    },
+    {
+      "file": "morepropulsion-1.3.0.jar",
+      "modid": "morepropulsion",
+      "version": "morepropulsion-1.3.0.jar",
+      "size": 783700,
+      "sha512": "8aced100aa4f4c5345685ee644810b9e4f9df06a0bdddc61039c8755c84414b79e1ecc856f0441a0391d89e077889c46c44e37581d5c225e0d43bb298ad8f7d0",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/morepropulsion-1.3.0.jar"
+    },
+    {
+      "file": "morerelics-1.7.6-1.21.1.jar",
+      "modid": "morerelics",
+      "version": "morerelics-1.7.6-1.21.1.jar",
+      "size": 823897,
+      "sha512": "04dea032d6fc80eceb4b2eabdd8c3b73d895606a30ef89ce04625750b203e692026a5151cb5edf6424fa5bacd6cda79e7617a85e2c5b49595a93c75fac1becdf",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/morerelics-1.7.6-1.21.1.jar"
+    },
+    {
+      "file": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "modid": "mousetweaks",
+      "version": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "size": 73938,
+      "sha512": "f95c0cc881211ee0442434976775e07aae40b4a2ba4e3a85455bc57ca9d3c991e239cd98374a8abd442dc9c378dcd9001e2caa1bf69991d424b5652dd7f3483b",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+    },
+    {
+      "file": "mowziesmobs-1.21.1-1.8.2.jar",
+      "modid": "mowziesmobs",
+      "version": "mowziesmobs-1.21.1-1.8.2.jar",
+      "size": 36042925,
+      "sha512": "ab10d2f759df613d5094bac26c5a8bbe144786699018f7e4ae027fc4a86632aa7f96206f2c8be9970338eadef42539614a19b41d0d70b6216c3ed1c4c4421f0a",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/mowziesmobs-1.21.1-1.8.2.jar"
+    },
+    {
+      "file": "Nirvana Lib-neoforge-1.21.1-2.2.0.jar",
+      "modid": "nirvana_lib",
+      "version": "Nirvana Lib-neoforge-1.21.1-2.2.0.jar",
+      "size": 1266810,
+      "sha512": "8818ec3894578462cefde173387fbd526eb43f441210d3bb8646e045cad0c758c4163b839a3bd4a61e8953a8b3e555cabeb44540daf39ab9ec0327cbb49cd462",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/Nirvana.Lib-neoforge-1.21.1-2.2.0.jar"
+    },
+    {
+      "file": "no-telemetry-1.10.0.jar",
+      "modid": "no_telemetry",
+      "version": "no-telemetry-1.10.0.jar",
+      "size": 96316,
+      "sha512": "a123e59ee7cb9de88669de06d56f5313cc60ee5ec80b0cc407ca0cff3b54b81255fba65e615fa7a33142b8030868e0c2a4cf9bdeadda7b3c593d707eff45576d",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/no-telemetry-1.10.0.jar"
+    },
+    {
+      "file": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "modid": "octolib",
+      "version": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "size": 544378,
+      "sha512": "c33faa056c9d5403f06b7aa883290c86c33dcea3502f99720df98eccbd819cd3050fb2ffecf048f2dbee1b69a14e9dc6c23245f35ba3a78e46b056859666a60a",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/OctoLib-NEOFORGE-0.6.2.1.21.jar"
+    },
+    {
+      "file": "origins-0.3.1.jar",
+      "modid": "origins",
+      "version": "origins-0.3.1.jar",
+      "size": 2187412,
+      "sha512": "ac51426678e83e091262928e8677505d8943aae566ea7e750c884bd2aaf6bc8db17ddadda93c3f9c53719b718faa3fbda5d2c32ee5bf2e927792f8cee6e776b5",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/origins-0.3.1.jar"
+    },
+    {
+      "file": "origins_classes-0.2.jar",
+      "modid": "origins_classes",
+      "version": "origins_classes-0.2.jar",
+      "size": 184428,
+      "sha512": "15a3415741afdbcf85f09670e9d93bb9859a090573c4ab37740b6ecfeec93f20c68d4d781e3fc20ef1fb55668b96b72199fa9c9f8f5c1619f59a195dd34e6cb2",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/origins_classes-0.2.jar"
+    },
+    {
+      "file": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+      "modid": "packetfixer",
+      "version": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+      "size": 46623,
+      "sha512": "d0acfaa6ef394fc7d9e677022bda06a6c8be7851ba8860897999775b657b5e10878578fe626505b0c9dbc01d26f559dbb1214aabb081d076824648047094e2e1",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+    },
+    {
+      "file": "particle_core-0.3.3+1.21+neoforge.jar",
+      "modid": "particle_core",
+      "version": "particle_core-0.3.3+1.21+neoforge.jar",
+      "size": 138375,
+      "sha512": "bf14200f4f279c2c5f5a50e09ef561f34463848fde507cb5930e4f4dbfed107697387ce030593be37a14da73cc459b0901928466fb44b2c2a387c584f38ec489",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/particle_core-0.3.3.1.21.neoforge.jar"
+    },
+    {
+      "file": "Patchouli-1.21.1-93-NEOFORGE.jar",
+      "modid": "patchouli",
+      "version": "Patchouli-1.21.1-93-NEOFORGE.jar",
+      "size": 646777,
+      "sha512": "0b5c172db9a6eeecb5ca44b359a83548c3a60be7ff313959acdfc1e5b8039736c18e57e947d435b52d06da31159d2d02ea36e5742668dbc826308a4c99e4039f",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/Patchouli-1.21.1-93-NEOFORGE.jar"
+    },
+    {
+      "file": "Paxi-1.21.1-NeoForge-5.1.3.jar",
+      "modid": "paxi",
+      "version": "Paxi-1.21.1-NeoForge-5.1.3.jar",
+      "size": 102980,
+      "sha512": "ed6a33eb9a4ac6ce4dd0cd03a45aba6068536121ab89cd4040d8c53964d59a7a8ceaee2f3bae13a3df3813eaf8d4fc4f82883e28ac4577b53aa26b750a181699",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/Paxi-1.21.1-NeoForge-5.1.3.jar"
+    },
+    {
+      "file": "peyroscythe-1.21.1-1.21.1-1.3.2.jar",
+      "modid": "peyroscythe",
+      "version": "peyroscythe-1.21.1-1.21.1-1.3.2.jar",
+      "size": 3224311,
+      "sha512": "bb611b3043b33753dc0efc02ef3a7ee57e2dc098dece4807359a270f72bd2d2c4c5c8db9492a3b6ff525d1aff92bbaeb26d708e96ffe0476ce89e7c4af783e83",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/peyroscythe-1.21.1-1.21.1-1.3.2.jar"
+    },
+    {
+      "file": "Placebo-1.21.1-9.9.2.jar",
+      "modid": "placebo",
+      "version": "Placebo-1.21.1-9.9.2.jar",
+      "size": 324058,
+      "sha512": "e8b4ba06fdbcdef8f936c39e7ba18bbfd326fad8d2512fd6cec80c899001b506a501b1aeac5eef2a1c2d7dd98f89ae3d94fac357c243027d623e59622bd295b5",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/Placebo-1.21.1-9.9.2.jar"
+    },
+    {
+      "file": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "modid": "playeranimator",
+      "version": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "size": 203149,
+      "sha512": "fc00450fb6c95ec1779021bdc726122dacb5915c6baddaacc981cd221b01b8db35f2a0dfde5d6fa6766d877266dc82f58854f571ea53cc5c4d468b80e1548a5f",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/player-animation-lib-forge-2.0.4.1.21.1.jar"
+    },
+    {
+      "file": "playersafelogin-1.0.1.jar",
+      "modid": "playersafelogin",
+      "version": "playersafelogin-1.0.1.jar",
+      "size": 66136,
+      "sha512": "ece70f1528947f65d229122c9e6e62acddf4acbaf55555e94dde71f633cad5ff9d3a54549424c77a1aa4941d08e322cf29fc1862f844bb97a7816aec83e40bf0",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/playersafelogin-1.0.1.jar"
+    },
+    {
+      "file": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "modid": "prickle",
+      "version": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "size": 84812,
+      "sha512": "154d42795ccf1f3e07714775cdb82fd5db17574319286ced13d86b0456b64e4cf5bb89ffbcbfcefce67b73ed0b83e4e2944e493d79d9a385ff9de23006ee7bf5",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/prickle-neoforge-1.21.1-21.1.11.jar"
+    },
+    {
+      "file": "prometheus-neoforge-1.21-1.2.5.jar",
+      "modid": "prometheus",
+      "version": "prometheus-neoforge-1.21-1.2.5.jar",
+      "size": 1056045,
+      "sha512": "de0b30d721386194272c46940a56786b975531e6b6a3d07bf778612c495d2eb92167cbb714f369b7c62ceadb42387927c1d0c6c44d96806c059bd8ae16f781ba",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/prometheus-neoforge-1.21-1.2.5.jar"
+    },
+    {
+      "file": "PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+      "modid": "puzzleslib",
+      "version": "PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+      "size": 1425176,
+      "sha512": "c195ebd7910dcb758cdc5bed1feb8b80fdb1a86e19b4521fd23a7a9d64838112c7b765cc8f5a6ea380fb0105ca1d09fc96956007bafa3edc423ec7ed0215324e",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar"
+    },
+    {
+      "file": "quick-pack-neoforge-1.4.0+1.21.1.jar",
+      "modid": "quick_pack",
+      "version": "quick-pack-neoforge-1.4.0+1.21.1.jar",
+      "size": 15082,
+      "sha512": "02f6bed8c9bd5d49ee2d085e2f9c4a11e7e4b2f59caee7159adadc226c83f14902ffd983e69516242e9e5b64ee536cec304459594e3d0f7f2b41f14f337f884b",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/quick-pack-neoforge-1.4.0.1.21.1.jar"
+    },
+    {
+      "file": "rarcompat-1.21-0.9.7.jar",
+      "modid": "rarcompat",
+      "version": "rarcompat-1.21-0.9.7.jar",
+      "size": 451470,
+      "sha512": "a4cacdde7db4b8eace4e50bfead8c17a69250e928169c667dff3bd32188b997a6c7434b6dd16b7d82664e1aabaec96b316645af5869283647b0416c7c216b999",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/rarcompat-1.21-0.9.7.jar"
+    },
+    {
+      "file": "redirected-neoforge-1.0.0-1.21.1.jar",
+      "modid": "redirected",
+      "version": "redirected-neoforge-1.0.0-1.21.1.jar",
+      "size": 217587,
+      "sha512": "029439eed72acb8501f06fd934da24a4a71290500bf2754cd1d497ed9fff380b0aff7f78b076a6a44fbaae31fa2313101ea622a83c3fafba748db70c8de7a530",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/redirected-neoforge-1.0.0-1.21.1.jar"
+    },
+    {
+      "file": "reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
+      "modid": "reeses_sodium_options",
+      "version": "reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
+      "size": 260876,
+      "sha512": "db858f48d74258ba460234219038d75eee660bb537711f0da89fd26383533d09b9ccc2e736c02c606a9dcfd7bba04a2e7febf87b89fcee45e0817e84f3827d98",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/reeses-sodium-options-neoforge-2.2.3.mc1.21.1.jar"
+    },
+    {
+      "file": "relics-1.21.1-0.10.7.8.jar",
+      "modid": "relics",
+      "version": "relics-1.21.1-0.10.7.8.jar",
+      "size": 2753166,
+      "sha512": "eee8bc6a1c676f6c513d59732f12bb6415cc7c7fb639ad8f9d7dc9958e4b6726226106715119d8c083c49628db1cf7e3a433716425016d6d025d1730885fbce1",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/relics-1.21.1-0.10.7.8.jar"
+    },
+    {
+      "file": "reliquified_lenders_cataclysm-1.21.1-0.1.1.jar",
+      "modid": "reliquified_lenders_cataclysm",
+      "version": "reliquified_lenders_cataclysm-1.21.1-0.1.1.jar",
+      "size": 376851,
+      "sha512": "e33cf111802b32b433c63c61c957cc136b6e52375ad31b5c81ea5826a32a3a0b37e81fcd22a7fcb4a867efddd4afc6c5628f69a656eee4ebcf14ad2e003f4e50",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/reliquified_lenders_cataclysm-1.21.1-0.1.1.jar"
+    },
+    {
+      "file": "reliquified_twilight_forest-1.21.1-0.5.3.jar",
+      "modid": "reliquified_twilight_forest",
+      "version": "reliquified_twilight_forest-1.21.1-0.5.3.jar",
+      "size": 769787,
+      "sha512": "e5b9fc6a982ed8c7084049aa26be6de37f973d8a5a5beb9b09ead86590da0d84f5e19257bcd854602aa0a23dc51d738914a5577855ddb3d221e25422d3d3af58",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/reliquified_twilight_forest-1.21.1-0.5.3.jar"
+    },
+    {
+      "file": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "modid": "resourcefulconfig",
+      "version": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "size": 341009,
+      "sha512": "8e4ccc37732b3f5190e7e98df34dbc1339fe614494fcabf1aeaeab9ad8e5993522964b51be31882000c08c48a6d0096b5458364415bb81f2b2b775a7daf2eb87",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/resourcefulconfig-neoforge-1.21-3.0.11.jar"
+    },
+    {
+      "file": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "modid": "resourcefullib",
+      "version": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "size": 484332,
+      "sha512": "a9d20e345faa9bcb297bd95ac9524205834804d1bb13518397dd4f7f62b352b08c3339ee7f7870d3669078ceeb33d5c31ea527aecce4b31d62ec1ff7d8b562c8",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/resourcefullib-neoforge-1.21-3.0.12.jar"
+    },
+    {
+      "file": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+      "modid": "ritchiesprojectilelib",
+      "version": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+      "size": 76369,
+      "sha512": "6d64c84505a5a8fbb96d106603065465c5a2314ec09636900c5c1a31014c12fa68f1a41e758313cbf0d6f95d9a1f53bd67339020f7d8db0e184c23f66aee0330",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar"
+    },
+    {
+      "file": "sable-neoforge-1.21.1-2.0.3.jar",
+      "modid": "sable",
+      "version": "sable-neoforge-1.21.1-2.0.3.jar",
+      "size": 12889000,
+      "sha512": "c13c4da086001c205361905cd3a6c59a76e3c7d4c082265aaf3baf2fd30c79808f6634bca89aba29db5c096aa7da4066f76454093c306c3ae91c6c0d4d63ae0d",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/sable-neoforge-1.21.1-2.0.3.jar"
+    },
+    {
+      "file": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "modid": "searchables",
+      "version": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "size": 77326,
+      "sha512": "d0824bac1900142ac9a53e68f7ec3b4c0d33d9366bbd3f1d0d93eed860e5eb6b5e6f5a215a69bfffa70bcb48573ff49b5a12bbaa96096ceac6636000d506027a",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/Searchables-neoforge-1.21.1-1.0.2.jar"
+    },
+    {
+      "file": "sodium-neoforge-0.8.12+mc1.21.1.jar",
+      "modid": "sodium",
+      "version": "sodium-neoforge-0.8.12+mc1.21.1.jar",
+      "size": 1291418,
+      "sha512": "2a689e1b1e16acc790c011b42ec21958956207c3b49cb99cb5c006e639786adf1cc36559f9840e2c1d27485c00da9712d34020fa4279eb6810eaa54bf20b19b0",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/sodium-neoforge-0.8.12.mc1.21.1.jar"
+    },
+    {
+      "file": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "modid": "sodiumdynamiclights",
+      "version": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "size": 299353,
+      "sha512": "ec19a81cf2dfde255990a457d8f6d7375df53cb94190dce71c4bfe5d5263f4862027ce4aa0af20cb11d56c7c031d5e149b3bdf95bec6343e5bd4552450b14c0a",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
+    },
+    {
+      "file": "somakespells-1.0.8-1.21.1-fix.jar",
+      "modid": "somakespells",
+      "version": "somakespells-1.0.8-1.21.1-fix.jar",
+      "size": 2070944,
+      "sha512": "dcd56a0bb5033f9c487d3f24e453d02aa67bdb4f179fdd2be3cf9f6fb6438079fa882af25b6e8f4b75332612996766fd95b505c4f33ecda2bf0ed415839a92c9",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/somakespells-1.0.8-1.21.1-fix.jar"
+    },
+    {
+      "file": "sophisticatedbackpacks-1.21.1-3.25.73.2027.jar",
+      "modid": "sophisticatedbackpacks",
+      "version": "sophisticatedbackpacks-1.21.1-3.25.73.2027.jar",
+      "size": 1144235,
+      "sha512": "fe92bd732f19d71818ba339cc3799645181c9dadbe669f99284125b6c96f70ed1f96bc4b91dfcf9220cc01a19c1dbfdcf95650bbd8e8166133c40d2660b90805",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/sophisticatedbackpacks-1.21.1-3.25.73.2027.jar"
+    },
+    {
+      "file": "sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
+      "modid": "sophisticatedbackpackscreateintegration",
+      "version": "sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
+      "size": 82627,
+      "sha512": "953ecfe402bb2b622ba649d9e0461a07864b90e1ef107f1f97d069a7c0e415c682835d8627e5cd6887925ef7a99c4939ae1d202872b23f93f200db3727cc760b",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar"
+    },
+    {
+      "file": "sophisticatedcore-1.21.1-1.4.80.2194.jar",
+      "modid": "sophisticatedcore",
+      "version": "sophisticatedcore-1.21.1-1.4.80.2194.jar",
+      "size": 1673669,
+      "sha512": "277d93609e53a70e693f3b492e37b537534e06be3f24313f3930c1bca4d6c556c2cc54e6a2f4d03622b9acbbc4ac29766df80941a93dae245890c5ecf52851ea",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/sophisticatedcore-1.21.1-1.4.80.2194.jar"
+    },
+    {
+      "file": "sophisticatedstorage-1.21.1-1.5.83.2017.jar",
+      "modid": "sophisticatedstorage",
+      "version": "sophisticatedstorage-1.21.1-1.5.83.2017.jar",
+      "size": 1828640,
+      "sha512": "af16494408c31e87a94e1d517c684b4b0c0fdb7ceaf6332ac1c281e18ee0cd9e0e87605f9a991b21ad737dff8eb83d5e0ac811983d881da5e56f989d344d46da",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/sophisticatedstorage-1.21.1-1.5.83.2017.jar"
+    },
+    {
+      "file": "sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar",
+      "modid": "sophisticatedstoragecreateintegration",
+      "version": "sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar",
+      "size": 134163,
+      "sha512": "979bb431e2db4df5836ff21e8c0f6b78c372afcabdcdb795e741d7c7487764af5803f6ca5f80944d987986b906cda9aaa884b8a6db00de092732752e7097f2bb",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar"
+    },
+    {
+      "file": "soul-fire-d-neoforge-1.21-6.1.0.jar",
+      "modid": "soul_fire_d",
+      "version": "soul-fire-d-neoforge-1.21-6.1.0.jar",
+      "size": 667319,
+      "sha512": "19d07afc330a3a7b67bd17e5ca1ab6046679e14e7d7331bf4be74da6c25d541480c938d81b0b1af1e2c54d29306581d0031ef62225d6c55735723f8f3a8ce5b9",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/soul-fire-d-neoforge-1.21-6.1.0.jar"
+    },
+    {
+      "file": "StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+      "modid": "storagedrawers",
+      "version": "StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+      "size": 1131420,
+      "sha512": "df97b8b5053a902264a236a71e7585b78d9d48a0bce585033aa8b169896d775f6fda462cfc77431af79cc596ab356eb9642e0c69a205a46b02d4d6f7ab3e74e9",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/StorageDrawers-neoforge-1.21.1-13.11.4.jar"
+    },
+    {
+      "file": "tectonic-3.0.26-neoforge-21.1.jar",
+      "modid": "tectonic",
+      "version": "tectonic-3.0.26-neoforge-21.1.jar",
+      "size": 461675,
+      "sha512": "7f91f69f6985cf5d0533dc0a645286f40b9625e0a67e405969d153497923a9b2e6b88e436b017eb969a1fbe28d02850d87152a06f2c01dc55779814912d770ef",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/tectonic-3.0.26-neoforge-21.1.jar"
+    },
+    {
+      "file": "toms_storage-1.21-2.4.1.jar",
+      "modid": "toms_storage",
+      "version": "toms_storage-1.21-2.4.1.jar",
+      "size": 855813,
+      "sha512": "a8acbdc51801a010bbf62dc95a209b4ebfbfb1f489f97f5d8f060c9d652850fa53aa3daa60b131b69069865658feb415c862d426164f9d1baf4d053f4674e687",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/toms_storage-1.21-2.4.1.jar"
+    },
+    {
+      "file": "TreeChop-1.21.1-neoforge-0.19.3.jar",
+      "modid": "treechop",
+      "version": "TreeChop-1.21.1-neoforge-0.19.3.jar",
+      "size": 517750,
+      "sha512": "f7e2dba5b40d544383048e9cb846977b01eca7f653d6513cf9d2b26abd10ab5d73eefe3956a0759cb342c7ac8af41e61fc338873ca47a8e4899e4407cb44b17d",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/TreeChop-1.21.1-neoforge-0.19.3.jar"
+    },
+    {
+      "file": "twilightforest-1.21.1-4.8.3345-universal.jar",
+      "modid": "twilightforest",
+      "version": "twilightforest-1.21.1-4.8.3345-universal.jar",
+      "size": 27154121,
+      "sha512": "371dd7079b174091363327df70ed64c84e8e36fcab49b4c33bbcbe39650f6bccc12d3e14818cdfbbaa519a999f64a0a92c03ec981f55a315b044dc7cb5c27ef4",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/twilightforest-1.21.1-4.8.3345-universal.jar"
+    },
+    {
+      "file": "twilight_spellbooks-1.1.0.jar",
+      "modid": "twilight_spellbooks",
+      "version": "twilight_spellbooks-1.1.0.jar",
+      "size": 58533,
+      "sha512": "fc305549dd9ff436b7d478162c96a9f444b022d42c7ea7ac44022ccc90edac52d43aba6d1e6faa41a0875021ad37c24518fedd855bacea2db406fa5bd75a6c1e",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/twilight_spellbooks-1.1.0.jar"
+    },
+    {
+      "file": "txnilib-neoforge-1.0.24-1.21.1.jar",
+      "modid": "txnilib",
+      "version": "txnilib-neoforge-1.0.24-1.21.1.jar",
+      "size": 6276522,
+      "sha512": "656cd5746fe1b3a2cc7c516619d9f88556f37387e672bb0f362c8aecefc6f1d06705d3a84564c8779856fbbf69fee67b6038a24ffcf46f36f2c478a1aff43a57",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/txnilib-neoforge-1.0.24-1.21.1.jar"
+    },
+    {
+      "file": "uranus-2.4.1-1.21.1-neoforge.jar",
+      "modid": "uranus",
+      "version": "uranus-2.4.1-1.21.1-neoforge.jar",
+      "size": 847732,
+      "sha512": "bb7119fc18ed36095daa8dc0caffd5c5c3357ff1bae0ffce4edbab965d8a57a0fb7c63b7e07c1c790ffa4477a4cfc7625b0b23214b9ec7c5cfa10b7f0caa89b7",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/uranus-2.4.1-1.21.1-neoforge.jar"
+    },
+    {
+      "file": "vanillin-neoforge-1.21.1-1.1.3.jar",
+      "modid": "vanillin",
+      "version": "vanillin-neoforge-1.21.1-1.1.3.jar",
+      "size": 870344,
+      "sha512": "b4c42bd310e66f20f679ff091192bb01739670f21162344bd177c812da20e873704ecb6ea5f6fd4d87661aee7be59a160808391582dfb97753833bfbb9fde236",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/vanillin-neoforge-1.21.1-1.1.3.jar"
+    },
+    {
+      "file": "waystones-neoforge-1.21.1-21.1.40.jar",
+      "modid": "waystones",
+      "version": "waystones-neoforge-1.21.1-21.1.40.jar",
+      "size": 1210134,
+      "sha512": "2841bb3651cb5bfb3ac4246c951aba2d9dd660fd5843b3d2b1b17afff8173ca8ec33c51eae50bbc7d6ffd9160f9e5dfd1b1fb4f63bc7d77255f3ad4421fda482",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/waystones-neoforge-1.21.1-21.1.40.jar"
+    },
+    {
+      "file": "wind_spellbooks-1.0.5.jar",
+      "modid": "wind_spellbooks",
+      "version": "wind_spellbooks-1.0.5.jar",
+      "size": 459532,
+      "sha512": "fcef32cb54a1dcc2f3cfa304b9a8161bb3e3a0f2c9d25a15cb36d594245c6f34753abbf3ad592854a8c32d5a94b32a4c1032a1d2eed5293c398e786a130103c2",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/wind_spellbooks-1.0.5.jar"
+    },
+    {
+      "file": "wizardshelp-1.0.0.jar",
+      "modid": "wizardshelp",
+      "version": "wizardshelp-1.0.0.jar",
+      "size": 312032,
+      "sha512": "055573ed2962e0c01778f7497f8bde63fd074f50102f6a26488a716fe5420b2bd4dc91de6c7f7526c2bdb1795fa3f9da2c9e8563c911d501e84159b349d7bd0f",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/wizardshelp-1.0.0.jar"
+    },
+    {
+      "file": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "modid": "yet_another_config_lib_v3",
+      "version": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "size": 1118651,
+      "sha512": "583de19b927ce8050c2b7d5e60b75accc69e325e5aac85c27994c82a9dec2e4e078343fa1d4c3a10d4bd7e0e524e0b3b246a18cf03db01e363a1e6f865adcf48",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/yet_another_config_lib_v3-3.8.2.1.21.1-neoforge.jar"
+    },
+    {
+      "file": "ypfundamentals-1.1.7.1.jar",
+      "modid": "ypfundamentals",
+      "version": "ypfundamentals-1.1.7.1.jar",
+      "size": 858749,
+      "sha512": "9a6d2962a8eb8fd4cdb99e1ee164fd3dd35db1d29b34e2cd9d487d75642f59f2b8927a4fef2653eb638b4c63c733dc7deab6049864878f9712a8bf0d75682b9f",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/ypfundamentals-1.1.7.1.jar"
+    },
+    {
+      "file": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "modid": "yungsapi",
+      "version": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "size": 388678,
+      "sha512": "5f36d5166a67a156df52699071f20219bc2320b3c4fbcd9dac38631f66136f034e3219ac89ff4bfb6e26e4c68513a94c833797f2e5ed5bf58cfa1531eeed162d",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/YungsApi-1.21.1-NeoForge-5.1.6.jar"
     }
   ]
 }
