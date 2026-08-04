@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "pack": "hostpack",
+  "revision": 1,
+  "mods": [
+    {
+      "file": "darkstarter-neoforge-1.21-1.1.8.jar",
+      "modid": "darkstarter",
+      "version": "darkstarter-neoforge-1.21-1.1.8.jar",
+      "size": 6167,
+      "sha512": "4191e8ab948ea6a3514339766b5951bb42918052568531cb11701f0985e56f0125d97c8caba64abb6adf3f98fb79f10c0f9bf340ed5c094ff660fa9139486824",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/darkstarter-neoforge-1.21-1.1.8.jar"
+    },
+    {
+      "file": "FastFurnace-1.21.1-9.0.1.jar",
+      "modid": "fastfurnace",
+      "version": "FastFurnace-1.21.1-9.0.1.jar",
+      "size": 4622,
+      "sha512": "f140b7c12528aed92ac1646737c745ffd5e89e91551b6e174d9e999f9f5e8f95225d993fdb862486e79d6577da8571dabffc58085fbfd86cb74c0fa30abd9f00",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/FastFurnace-1.21.1-9.0.1.jar"
+    },
+    {
+      "file": "fastleafdecay-35.jar",
+      "modid": "fastleafdecay",
+      "version": "fastleafdecay-35.jar",
+      "size": 9511,
+      "sha512": "795f7e5a03b65705d18901fe28034df771e1843aabd16bfe49fe77b534938424ce26f3d0f723cd78ada058989bb758d14f091ca111f0b1e4d195e8baa031bbc5",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/fastleafdecay-35.jar"
+    }
+  ]
+}
