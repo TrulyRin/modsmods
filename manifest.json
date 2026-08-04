@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "pack": "Spellerium V3",
-  "revision": 5,
+  "revision": 6,
   "mods": [
     {
       "file": "acedium-0.4.1+mc1.21.1.jar",
@@ -1839,5 +1839,13 @@
       "source": "github",
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/YungsApi-1.21.1-NeoForge-5.1.6.jar"
     }
-  ]
+  ],
+  "config": {
+    "file": "config.zip",
+    "version": "r6",
+    "size": 1074370,
+    "sha512": "8b3f9c64c19bafc8c849c7af195250b6162a9377bfe34734d04fedfa466c035186b8841728d33611c6ed6a565d333775fe73429667e82035cfd01273ef754e89",
+    "source": "github",
+    "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/config.zip"
+  }
 }
