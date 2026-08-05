@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "pack": "Spellerium V3",
-  "revision": 38,
+  "revision": 39,
   "mods": [
     {
       "file": "aces_spell_utils-1.2.7.1-1.21.1.jar",
@@ -1977,9 +1977,9 @@
   ],
   "config": {
     "file": "config.zip",
-    "version": "r38",
-    "size": 5061955,
-    "sha512": "4adfc32b3f91e60071341365bd7b6ef3d800265af4b36689214c356634f4513df6817caacac685783f1cdf4a32d467366eee45b1e64c6382b543cbac9cef206a",
+    "version": "r39",
+    "size": 5062323,
+    "sha512": "3ce83a4daa125e00c0f750dd774c199aa5705396ad1919ba94e3efe8073788a1a6efbb2690c5bba3176fb462c7f08476219bd435953fe4c041d0f6014a156afc",
     "source": "github",
     "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/config.zip"
   },
