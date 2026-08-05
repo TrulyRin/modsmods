@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "pack": "Spellerium V3",
-  "revision": 17,
+  "revision": 18,
   "mods": [
     {
       "file": "aces_spell_utils-1.2.7.1-1.21.1.jar",
@@ -1624,6 +1624,15 @@
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar"
     },
     {
+      "file": "Quick Skin - NeoForge - 1.21.1-2.6.2.4.jar",
+      "modid": "quickskin",
+      "version": "Quick Skin - NeoForge - 1.21.1-2.6.2.4.jar",
+      "size": 4932632,
+      "sha512": "7f6eb037aba8df6110e30014217aee343a995f272ab781284c1387e93e15e30cdcd7364d2aaa755c1be7e291df2a484f52a581c100966c2239feeb20e41f964c",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/Quick.Skin.-.NeoForge.-.1.21.1-2.6.2.4.jar"
+    },
+    {
       "file": "quick-pack-neoforge-1.4.0+1.21.1.jar",
       "modid": "quick_pack",
       "version": "quick-pack-neoforge-1.4.0+1.21.1.jar",
@@ -1822,6 +1831,15 @@
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/StorageDrawers-neoforge-1.21.1-13.11.4.jar"
     },
     {
+      "file": "threatengl-neoforge-2.0.4-release.10.jar",
+      "modid": "threatengl",
+      "version": "threatengl-neoforge-2.0.4-release.10.jar",
+      "size": 51942,
+      "sha512": "f83691dc285de7997308af36280a33972f08ea457501926a1442267ab83fc25c69279ee37593674494e9f0d4f1d6d242cb97f43e888c73513d9da9a903dff204",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/threatengl-neoforge-2.0.4-release.10.jar"
+    },
+    {
       "file": "toms_storage-1.21-2.4.1.jar",
       "modid": "toms_storage",
       "version": "toms_storage-1.21-2.4.1.jar",
@@ -1950,7 +1968,7 @@
   ],
   "config": {
     "file": "config.zip",
-    "version": "r17",
+    "version": "r18",
     "size": 5070080,
     "sha512": "ac868ffa23362fea1dc993a5101eab9c615d0e514ba4811e35e7b5dc7ca72dbd452a783ff2f36bbdac4cb712d0f970e81919ee31c8ae0cf49d2c6580017adf84",
     "source": "github",
