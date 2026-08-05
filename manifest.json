@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "pack": "Spellerium V3",
-  "revision": 19,
+  "revision": 20,
   "mods": [
     {
       "file": "aces_spell_utils-1.2.7.1-1.21.1.jar",
@@ -308,15 +308,6 @@
       "sha512": "81fd425d8910da30d9ce130213e518ed3acf6d6b63c98396668126e17f99f4d8e17348de7f6147ed3639ca59a3d3d79e1f0d78937972732fda04b7ac8a886547",
       "source": "github",
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/citadel-1.21.1-2.7.6.jar"
-    },
-    {
-      "file": "CleanF3-mc1.21.1-0.4.8.jar",
-      "modid": "clean-debug",
-      "version": "CleanF3-mc1.21.1-0.4.8.jar",
-      "size": 18038,
-      "sha512": "05075ee4c99e2c7cd35cd29a81516474b57f5b7dd41da17ad607f6153286090fb2f9f30383b070b4f6af47cf77d04ff36428c38871ebd6dc9a20a0bddbff1b37",
-      "source": "github",
-      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/CleanF3-mc1.21.1-0.4.8.jar"
     },
     {
       "file": "clientcrafting-1.21-2.1.jar",
@@ -1977,7 +1968,7 @@
   ],
   "config": {
     "file": "config.zip",
-    "version": "r19",
+    "version": "r20",
     "size": 5070080,
     "sha512": "ac868ffa23362fea1dc993a5101eab9c615d0e514ba4811e35e7b5dc7ca72dbd452a783ff2f36bbdac4cb712d0f970e81919ee31c8ae0cf49d2c6580017adf84",
     "source": "github",
