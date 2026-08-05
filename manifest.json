@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "pack": "Spellerium V3",
-  "revision": 13,
+  "revision": 14,
   "mods": [
     {
       "file": "acedium-0.4.1+mc1.21.1.jar",
@@ -1318,15 +1318,6 @@
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/melody_neoforge_1.0.10_MC_1.21.jar"
     },
     {
-      "file": "memorysettings-1.21-6.0.jar",
-      "modid": "memorysettings",
-      "version": "memorysettings-1.21-6.0.jar",
-      "size": 22329,
-      "sha512": "84e8afc8ac253678cac4bae061470e79617dbec9c853ec9385508eaf000901bcb84d0d5ec4ab3eefdaaf9e8ad641da5ecb7c96a7eb59813f75c94c5702e87ab9",
-      "source": "github",
-      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/memorysettings-1.21-6.0.jar"
-    },
-    {
       "file": "midnightlib-neoforge-1.9.3+1.21.1.jar",
       "modid": "midnightlib",
       "version": "midnightlib-neoforge-1.9.3+1.21.1.jar",
@@ -1968,7 +1959,7 @@
   ],
   "config": {
     "file": "config.zip",
-    "version": "r13",
+    "version": "r14",
     "size": 5067488,
     "sha512": "f753dba74d915190b4e64180233d600648ab6f04201c02da373af04099c244728bcec0f33c94bf99a3c8105788a6dda36ad426ea23637f329526888fbb1adc82",
     "source": "github",
