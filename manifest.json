@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "pack": "Spellerium V3",
-  "revision": 8,
+  "revision": 9,
   "mods": [
     {
       "file": "acedium-0.4.1+mc1.21.1.jar",
@@ -290,15 +290,6 @@
       "sha512": "ca54969151e719e6208b5e6bb991de5c0ec859933fab197d1b609163bb46b0dd83c44d198ef8a1041e47982af994ae6a5f16fac1797103dff8ffd90c77fede81",
       "source": "github",
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/CasterCuriosBonus-1.21.1-1.1.1.jar"
-    },
-    {
-      "file": "cataclysm_dimension-neoforge1.21.1-1.5.5.jar",
-      "modid": "cataclysm_dimension",
-      "version": "cataclysm_dimension-neoforge1.21.1-1.5.5.jar",
-      "size": 330824,
-      "sha512": "2a11ea0f091a3ad055c604b4cfccc3149aedee4fcd59f47225a504e32c72f24a03faa895f6d1eaf3e460ca15af0c0fbe5e24ad11ccd806feee8e96d1ca23d70d",
-      "source": "github",
-      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/cataclysm_dimension-neoforge1.21.1-1.5.5.jar"
     },
     {
       "file": "cataclysm_spellbooks-1.1.11-1.21.jar",
@@ -983,15 +974,6 @@
       "sha512": "73bbc7847313297ec61451ba7c47e268391ab8816a7c3837ce2072bf4d9c7ba2573c0d1d374ef3be28b0ebba27f7c7c4e082fa48ec57afa3745a2a58a4c01999",
       "source": "github",
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/hazentouvelib-1.0.8.jar"
-    },
-    {
-      "file": "holdmyitemsnf-1.21.1v2.1.jar",
-      "modid": "holdmyitemsnf",
-      "version": "holdmyitemsnf-1.21.1v2.1.jar",
-      "size": 107291,
-      "sha512": "1e84e1c71a2e6247c4f1267418959f211728b5b0c60ddfaab63c669a7ea3f9836a883b9e621d75d4f2f24ce1d1f1d08b92a97c41f10a72c30218cc38585432f7",
-      "source": "github",
-      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/holdmyitemsnf-1.21.1v2.1.jar"
     },
     {
       "file": "IceAndFireCE-2.0-beta.15-1.21.1-neoforge.jar",
@@ -1977,9 +1959,9 @@
   ],
   "config": {
     "file": "config.zip",
-    "version": "r8",
-    "size": 4551826,
-    "sha512": "70903f557f4e4c20d077b208c4f36aa8f2a8e22d4aed893e52d79f8a5888d0785764ef36e106929ac9ab50449d093275732f39a6eb318d8d18645ecae6686ce9",
+    "version": "r9",
+    "size": 4551829,
+    "sha512": "46e46c7c054a71d027425b27ac73bb79175ce1ea9419b32612fe1434c398f236b2c635ae04491e0405f2b1835d9efb501b851acc00800950edab98ed6023d123",
     "source": "github",
     "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/config.zip"
   }
