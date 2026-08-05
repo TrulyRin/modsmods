@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "pack": "Spellerium V3",
-  "revision": 16,
+  "revision": 17,
   "mods": [
     {
       "file": "aces_spell_utils-1.2.7.1-1.21.1.jar",
@@ -310,6 +310,15 @@
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/citadel-1.21.1-2.7.6.jar"
     },
     {
+      "file": "CleanF3-mc1.21.1-0.4.8.jar",
+      "modid": "clean-debug",
+      "version": "CleanF3-mc1.21.1-0.4.8.jar",
+      "size": 18038,
+      "sha512": "05075ee4c99e2c7cd35cd29a81516474b57f5b7dd41da17ad607f6153286090fb2f9f30383b070b4f6af47cf77d04ff36428c38871ebd6dc9a20a0bddbff1b37",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/CleanF3-mc1.21.1-0.4.8.jar"
+    },
+    {
       "file": "clientcrafting-1.21-2.1.jar",
       "modid": "clientcrafting",
       "version": "clientcrafting-1.21-2.1.jar",
@@ -317,6 +326,15 @@
       "sha512": "99a7a64738fe4bb1494783a414c31785364089a1cd77fba9a736cf34e85e0b0a80eacfe41f622a604bf7e8506507d69b07acab3b41240d94286460ecc1826177",
       "source": "github",
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/clientcrafting-1.21-2.1.jar"
+    },
+    {
+      "file": "clienttweaks-neoforge-1.21.1-21.1.14.jar",
+      "modid": "clienttweaks",
+      "version": "clienttweaks-neoforge-1.21.1-21.1.14.jar",
+      "size": 177995,
+      "sha512": "8db9bbab575dba5bc7c49357e05ca726fd9dd2b9731204807be0195d2f9093871407a5da0d1e8bd4445ebc9f55365931ae6d8f77366ef852046c29aa9efa7073",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/clienttweaks-neoforge-1.21.1-21.1.14.jar"
     },
     {
       "file": "cloth-config-15.0.140-neoforge.jar",
@@ -812,6 +830,15 @@
       "sha512": "9f8f92334926fef89115d7cbf60dc480d5020e6714a7d7b34b5a806fc9e92ea6d63c73778e8980f7ecfba653f590fe0d5799ca155c199d6fe5510b3063701333",
       "source": "github",
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/firesenderexpansion-2.4.1.jar"
+    },
+    {
+      "file": "flerovium-neoforge-1.21.1-1.1.2-all.jar",
+      "modid": "flerovium",
+      "version": "flerovium-neoforge-1.21.1-1.1.2-all.jar",
+      "size": 182579,
+      "sha512": "6301ea6991768832fa983f61e1b0574336aea4920e027632a3df93c8a10f5d87041876fad516d16827d9cd13a84b5a8c334c1a0076ca04121e321939d5d6ea52",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/flerovium-neoforge-1.21.1-1.1.2-all.jar"
     },
     {
       "file": "framework-neoforge-1.21.1-0.13.11.jar",
@@ -1480,24 +1507,6 @@
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/OctoLib-NEOFORGE-0.6.2.1.21.jar"
     },
     {
-      "file": "origins-0.3.1.jar",
-      "modid": "origins",
-      "version": "origins-0.3.1.jar",
-      "size": 2187412,
-      "sha512": "ac51426678e83e091262928e8677505d8943aae566ea7e750c884bd2aaf6bc8db17ddadda93c3f9c53719b718faa3fbda5d2c32ee5bf2e927792f8cee6e776b5",
-      "source": "github",
-      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/origins-0.3.1.jar"
-    },
-    {
-      "file": "origins_classes-0.2.jar",
-      "modid": "origins_classes",
-      "version": "origins_classes-0.2.jar",
-      "size": 184428,
-      "sha512": "15a3415741afdbcf85f09670e9d93bb9859a090573c4ab37740b6ecfeec93f20c68d4d781e3fc20ef1fb55668b96b72199fa9c9f8f5c1619f59a195dd34e6cb2",
-      "source": "github",
-      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/origins_classes-0.2.jar"
-    },
-    {
       "file": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
       "modid": "packetfixer",
       "version": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
@@ -1941,9 +1950,9 @@
   ],
   "config": {
     "file": "config.zip",
-    "version": "r16",
-    "size": 5070021,
-    "sha512": "38f479bf8314f7ac3badc1fa55068d5acce85dfceb1d9d0eb9850df77d66bcb8d1dbab615e8b3721848ae353b0ceff18bd4c762c848ddec57c08ab14867127de",
+    "version": "r17",
+    "size": 5070080,
+    "sha512": "ac868ffa23362fea1dc993a5101eab9c615d0e514ba4811e35e7b5dc7ca72dbd452a783ff2f36bbdac4cb712d0f970e81919ee31c8ae0cf49d2c6580017adf84",
     "source": "github",
     "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/config.zip"
   }
