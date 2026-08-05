@@ -1,17 +1,8 @@
 {
   "schema": 1,
   "pack": "Spellerium V3",
-  "revision": 14,
+  "revision": 15,
   "mods": [
-    {
-      "file": "acedium-0.4.1+mc1.21.1.jar",
-      "modid": "acedium",
-      "version": "acedium-0.4.1+mc1.21.1.jar",
-      "size": 162923,
-      "sha512": "3344e65d3bb9389dbe2f42d79775a2b828a90f929fd8d549507a105c1727263175bf53c747ba4b640c20c1e3f33944c454f16a5e0ca681eec6da2a177cd8e4c9",
-      "source": "github",
-      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/acedium-0.4.1.mc1.21.1.jar"
-    },
     {
       "file": "aces_spell_utils-1.2.7.1-1.21.1.jar",
       "modid": "aces_spell_utils",
@@ -1111,15 +1102,6 @@
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/ISS_VirtualWitchArrangement-NeoForge-1.21.1-1.0.0.jar"
     },
     {
-      "file": "Ixeris-4.6.2+1.21.1-neoforge.jar",
-      "modid": "ixeris_dummy",
-      "version": "Ixeris-4.6.2+1.21.1-neoforge.jar",
-      "size": 681754,
-      "sha512": "e1d5514f94aed80c8bcf09b0dfe1b9dd6b11273e112b9eb6e3365ec8685b314ae20f6d4d1edd7c2b1f4b3138f0f2e15a2a3d661ae8a81f3229c23bca65ab4310",
-      "source": "github",
-      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/Ixeris-4.6.2.1.21.1-neoforge.jar"
-    },
-    {
       "file": "Jade-1.21.1-NeoForge-15.10.5.jar",
       "modid": "jade",
       "version": "Jade-1.21.1-NeoForge-15.10.5.jar",
@@ -1959,9 +1941,9 @@
   ],
   "config": {
     "file": "config.zip",
-    "version": "r14",
-    "size": 5067488,
-    "sha512": "f753dba74d915190b4e64180233d600648ab6f04201c02da373af04099c244728bcec0f33c94bf99a3c8105788a6dda36ad426ea23637f329526888fbb1adc82",
+    "version": "r15",
+    "size": 5069449,
+    "sha512": "daebe1539db30933b4b0288e180f8cc7e0c1e7c4adca74e57705d3c3ece9c1c22d6cf2a98024178be42a080bddd02b4efbc492fbaedb918e8d1c021a8fb74d94",
     "source": "github",
     "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/config.zip"
   }
