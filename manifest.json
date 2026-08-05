@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "pack": "Spellerium V3",
-  "revision": 12,
+  "revision": 13,
   "mods": [
     {
       "file": "acedium-0.4.1+mc1.21.1.jar",
@@ -1968,9 +1968,9 @@
   ],
   "config": {
     "file": "config.zip",
-    "version": "r12",
-    "size": 5065675,
-    "sha512": "ace23934f9f494bbe587993f3f2729cecdecf5e2e9b81a0f2c81f6496136ef8cbb3580f364e4fc631097b077e69be8670f70e79e6d40bbff66673d27844f8545",
+    "version": "r13",
+    "size": 5067488,
+    "sha512": "f753dba74d915190b4e64180233d600648ab6f04201c02da373af04099c244728bcec0f33c94bf99a3c8105788a6dda36ad426ea23637f329526888fbb1adc82",
     "source": "github",
     "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/config.zip"
   }
