@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "pack": "Spellerium V3",
-  "revision": 10,
+  "revision": 11,
   "mods": [
     {
       "file": "acedium-0.4.1+mc1.21.1.jar",
@@ -1012,6 +1012,15 @@
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/ice_and_fire_spellbooks-2.3.3-1.21.1.jar"
     },
     {
+      "file": "immersive_optimization-neoforge-1.21.1-0.2.0.jar",
+      "modid": "immersive_optimization",
+      "version": "immersive_optimization-neoforge-1.21.1-0.2.0.jar",
+      "size": 56122,
+      "sha512": "5c631cb5e65ad0230b0927e3c0cbe0ae476f50513136a9616e1518064c5af55b70db2740a7bf0188a381ee7509b874676abd72c1e71ded244ca1b0d10dc21613",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/immersive_optimization-neoforge-1.21.1-0.2.0.jar"
+    },
+    {
       "file": "ironssablecompat-1.0.4.jar",
       "modid": "ironssablecompat",
       "version": "ironssablecompat-1.0.4.jar",
@@ -1968,7 +1977,7 @@
   ],
   "config": {
     "file": "config.zip",
-    "version": "r10",
+    "version": "r11",
     "size": 5064499,
     "sha512": "f21adbf1123a3451b479385cc5f76d08b7a9d1bcd2c6b17c83a37d43f69cc2fb9006e8eb46ea5967545a219cdd3cdefbd57ac31fc4e2d482255a6e3e0d7b5c90",
     "source": "github",
