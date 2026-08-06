@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "pack": "Spellerium V3",
-  "revision": 70,
+  "revision": 71,
   "mods": [
     {
       "file": "aces_spell_utils-1.2.7.1-1.21.1.jar",
@@ -1192,15 +1192,6 @@
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/immersive_optimization-neoforge-1.21.1-0.2.0.jar"
     },
     {
-      "file": "infinity-2.7.2+1.21.1-neoforge.jar",
-      "modid": "infinity",
-      "version": "infinity-2.7.2+1.21.1-neoforge.jar",
-      "size": 8021857,
-      "sha512": "a0ab81a2b93a80c63cb239b094b99a3bcd5c6dd95be6952ba718c75de2490177709b683af878226aaa1d9800621fcad1a14974ae5411f247f337d31e4c4e8979",
-      "source": "github",
-      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/infinity-2.7.2.1.21.1-neoforge.jar"
-    },
-    {
       "file": "integrated_api-1.7.4+1.21.1-neoforge.jar",
       "modid": "integrated_api",
       "version": "integrated_api-1.7.4+1.21.1-neoforge.jar",
@@ -2238,7 +2229,7 @@
   ],
   "config": {
     "file": "config.zip",
-    "version": "r70",
+    "version": "r71",
     "size": 5152633,
     "sha512": "467fb94e9ece4a104e0f23dca6c38677873533fe1e636a568ba63765a9a8f9486f41d7afe330327d6c4602dcd564a10fcf2181978cd34cca07b3b47f89525567",
     "source": "github",
