@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "pack": "Spellerium V3",
-  "revision": 67,
+  "revision": 68,
   "mods": [
     {
       "file": "aces_spell_utils-1.2.7.1-1.21.1.jar",
@@ -65,6 +65,15 @@
       "sha512": "ded870e90953ea915d24ac4c81799b95b321dda39936cd4cd620302b48882141fa3b9f1af658bdc6c25dc48de003223b91f3669b69efcc92c8666a3983f0fccc",
       "source": "github",
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/AI-Improvements-1.21-0.5.3.jar"
+    },
+    {
+      "file": "Almanac-1.21.1-2-neoforge-1.5.2.jar",
+      "modid": "almanac",
+      "version": "Almanac-1.21.1-2-neoforge-1.5.2.jar",
+      "size": 25593,
+      "sha512": "b8c87ce784d1afee68cf8943dd64be899d9a25d111aeec1d72f1c80431cacaf71c1b4d6eb16bdaaaa36bdfd3cd4df653e8575cb567f5cdbecdefc581ad187177",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/Almanac-1.21.1-2-neoforge-1.5.2.jar"
     },
     {
       "file": "ancientreforging-1.8.5.jar",
@@ -1399,6 +1408,15 @@
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/legendary_spellbooks-1.21.1.neo-0.3.2.jar"
     },
     {
+      "file": "letmedespawn-1.21.x-neoforge-1.5.0.jar",
+      "modid": "letmedespawn",
+      "version": "letmedespawn-1.21.x-neoforge-1.5.0.jar",
+      "size": 14911,
+      "sha512": "e6c892bb621a9382728c6f5735922736283cd54ec4f5a5d4d7d0745dedbe39851e21a69abcdf7af783fbacf8c700789b6ef9278dc09782ad1cd63ec004bc7a35",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/letmedespawn-1.21.x-neoforge-1.5.0.jar"
+    },
+    {
       "file": "limitedchunks-1.21-4.1.jar",
       "modid": "limitedchunks",
       "version": "limitedchunks-1.21-4.1.jar",
@@ -2220,7 +2238,7 @@
   ],
   "config": {
     "file": "config.zip",
-    "version": "r67",
+    "version": "r68",
     "size": 5061828,
     "sha512": "26b6aaad851f79231bd2a1c903b1775e0642477cf737fbe769ca948d93deeb2c5faf9e2ce76797f667de63cc2e583be4e1cbdfe8fd7ca2aed4c7d8ebde229ff1",
     "source": "github",
