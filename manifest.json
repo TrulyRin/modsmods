@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "pack": "Create SMP",
-  "revision": 83,
+  "revision": 84,
   "mods": [
     {
       "file": "architectury-13.0.11-neoforge.jar",
@@ -265,6 +265,24 @@
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/Ixeris-4.6.7.1.21.1-neoforge.jar"
     },
     {
+      "file": "jei-1.21.1-neoforge-19.51.0.418.jar",
+      "modid": "jei",
+      "version": "jei-1.21.1-neoforge-19.51.0.418.jar",
+      "size": 1804792,
+      "sha512": "a6ca3abc3080f6f41033a77cb955fefe9f9ebae795c33546227f555b2d31e8d4131cc705126d14a3fbabb31097fc0e876dc0bbeb05ad907a1b796f21e57527bf",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/jei-1.21.1-neoforge-19.51.0.418.jar"
+    },
+    {
+      "file": "kotlinforforge-5.12.0-all.jar",
+      "modid": "file:kotlinforforge-5.12.0-all.jar",
+      "version": "kotlinforforge-5.12.0-all.jar",
+      "size": 7279264,
+      "sha512": "b8c3942f4d33179edf3f102f3d870b99dd436f8b8236dbbd31aa51b888162c692cfd88927295f24dc8b4375232f4c6c17360c5d6c4823f93cbcd7cf4bdc8bd14",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/kotlinforforge-5.12.0-all.jar"
+    },
+    {
       "file": "lithium-neoforge-0.15.4+mc1.21.1.jar",
       "modid": "lithium",
       "version": "lithium-neoforge-0.15.4+mc1.21.1.jar",
@@ -364,6 +382,15 @@
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/rechiseledcreate-1.1.1-neoforge-mc1.21.jar"
     },
     {
+      "file": "Resourcify (1.21.1-neoforge)-1.8.6.jar",
+      "modid": "resourcify",
+      "version": "Resourcify (1.21.1-neoforge)-1.8.6.jar",
+      "size": 2940307,
+      "sha512": "ca8eca6ab89acdbd88d4c5b59a5595d98e00f3f8361c7b337aa2bf8e8cc102d9ef97792f4898170309b866013156238ae74c16df9fe3214722e86bcd14addf2f",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/Resourcify.1.21.1-neoforge.-1.8.6.jar"
+    },
+    {
       "file": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
       "modid": "ritchiesprojectilelib",
       "version": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
@@ -438,9 +465,9 @@
   ],
   "config": {
     "file": "config.zip",
-    "version": "r83",
-    "size": 31996,
-    "sha512": "f0162e3ceccd222c538af2576b92359c27e86a4067b1020a5cc8c5bb7a25ae09f5f66740baeb34ba7a199031b16df37b3b9d00c5750e0dde7345ecab53191cd2",
+    "version": "r84",
+    "size": 32322,
+    "sha512": "ee812bee91843bd5d6725e2f4322decc536d91b63450c4fa481ed62923dd59fcc8deafbfcb0155c4447915a419644c6c118fae4c5e739025f7073c8c759b12f8",
     "source": "github",
     "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/config.zip"
   },
@@ -500,7 +527,7 @@
     "rawMouseInput": "true",
     "reducedDebugInfo": "false",
     "renderClouds": "\"false\"",
-    "renderDistance": "8",
+    "renderDistance": "16",
     "screenEffectScale": "1.0",
     "showAutosaveIndicator": "true",
     "showSubtitles": "false",
