@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "pack": "Create SMP",
-  "revision": 82,
+  "revision": 83,
   "mods": [
     {
       "file": "architectury-13.0.11-neoforge.jar",
@@ -310,6 +310,24 @@
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/obe.1.21.1-neoforge-1.1.45.jar"
     },
     {
+      "file": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+      "modid": "packetfixer",
+      "version": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+      "size": 46623,
+      "sha512": "d0acfaa6ef394fc7d9e677022bda06a6c8be7851ba8860897999775b657b5e10878578fe626505b0c9dbc01d26f559dbb1214aabb081d076824648047094e2e1",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+    },
+    {
+      "file": "playersafelogin-1.0.1.jar",
+      "modid": "playersafelogin",
+      "version": "playersafelogin-1.0.1.jar",
+      "size": 66136,
+      "sha512": "ece70f1528947f65d229122c9e6e62acddf4acbaf55555e94dde71f633cad5ff9d3a54549424c77a1aa4941d08e322cf29fc1862f844bb97a7816aec83e40bf0",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/playersafelogin-1.0.1.jar"
+    },
+    {
       "file": "Quick Skin - NeoForge - 1.21.1-3.0.0.jar",
       "modid": "quickskin",
       "version": "Quick Skin - NeoForge - 1.21.1-3.0.0.jar",
@@ -373,6 +391,15 @@
       "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/sodium-neoforge-0.8.13.mc1.21.1.jar"
     },
     {
+      "file": "spellerium-sync-0.8.1.jar",
+      "modid": "spellerium_sync",
+      "version": "spellerium-sync-0.8.1.jar",
+      "size": 89338,
+      "sha512": "ab0a03e9d4a46a72648a2674b8c34fc979cab22ee594ab65e41e8deebb6f40d26ac6dd30d477d1febc231052e8eea5a8c8eaf9ff1647e0051cf8c3b6b80f4c16",
+      "source": "github",
+      "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/spellerium-sync-0.8.1.jar"
+    },
+    {
       "file": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
       "modid": "supermartijn642configlib",
       "version": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
@@ -411,9 +438,9 @@
   ],
   "config": {
     "file": "config.zip",
-    "version": "r82",
-    "size": 30603,
-    "sha512": "3bb602051d8104fa6a088208d3aea93b74fbbd641e55de8d83fc4c2347aae2ade6fa0e2a6407d75992b949371d8627f836c7d192653e5120c4e0b7a2fe88ec24",
+    "version": "r83",
+    "size": 31996,
+    "sha512": "f0162e3ceccd222c538af2576b92359c27e86a4067b1020a5cc8c5bb7a25ae09f5f66740baeb34ba7a199031b16df37b3b9d00c5750e0dde7345ecab53191cd2",
     "source": "github",
     "url": "https://github.com/TrulyRin/modsmods/releases/download/pack/config.zip"
   },
